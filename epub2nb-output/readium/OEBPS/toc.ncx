@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="e22b7585-cf7f-48cc-8745-670e0709288b" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Básně</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>První verš</text>
+      </navLabel>
+      <content src="Text/basne_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I BÁSNĚ A JEJICH TORSA</text>
+      </navLabel>
+      <content src="Text/basne_006.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Venkovské bály</text>
+        </navLabel>
+        <content src="Text/basne_007.html"/>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/basne_007.html#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/basne_007.html#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/basne_007.html#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/basne_007.html#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/basne_007.html#sigil_toc_id_5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Hlava</text>
+        </navLabel>
+        <content src="Text/basne_008.html"/>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/basne_008.html#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/basne_008.html#sigil_toc_id_7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Proměny</text>
+        </navLabel>
+        <content src="Text/basne_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Tajnosti</text>
+        </navLabel>
+        <content src="Text/basne_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Půl noci</text>
+        </navLabel>
+        <content src="Text/basne_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Pes a luna</text>
+        </navLabel>
+        <content src="Text/basne_012.html"/>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/basne_012.html#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/basne_012.html#sigil_toc_id_9"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/basne_012.html#sigil_toc_id_10"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/basne_012.html#sigil_toc_id_11"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Triumf</text>
+        </navLabel>
+        <content src="Text/basne_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Tkvění</text>
+        </navLabel>
+        <content src="Text/basne_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Legenda</text>
+        </navLabel>
+        <content src="Text/basne_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Dospělost</text>
+        </navLabel>
+        <content src="Text/basne_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Tristium</text>
+        </navLabel>
+        <content src="Text/basne_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Andělská jízda</text>
+        </navLabel>
+        <content src="Text/basne_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Hlasy</text>
+        </navLabel>
+        <content src="Text/basne_019.html"/>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/basne_019.html#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/basne_019.html#sigil_toc_id_13"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/basne_019.html#sigil_toc_id_14"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Vpád</text>
+        </navLabel>
+        <content src="Text/basne_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>De profundis</text>
+        </navLabel>
+        <content src="Text/basne_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Zavržení</text>
+        </navLabel>
+        <content src="Text/basne_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Hra o</text>
+        </navLabel>
+        <content src="Text/basne_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Nebesa</text>
+        </navLabel>
+        <content src="Text/basne_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Snoubení</text>
+        </navLabel>
+        <content src="Text/basne_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Modlitba</text>
+        </navLabel>
+        <content src="Text/basne_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Krutost</text>
+        </navLabel>
+        <content src="Text/basne_027.html"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/basne_027.html#sigil_toc_id_15"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/basne_027.html#sigil_toc_id_16"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Jsoucí</text>
+        </navLabel>
+        <content src="Text/basne_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Plynoucí</text>
+        </navLabel>
+        <content src="Text/basne_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Promlčování</text>
+        </navLabel>
+        <content src="Text/basne_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Dovršení</text>
+        </navLabel>
+        <content src="Text/basne_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Veliká báseň</text>
+        </navLabel>
+        <content src="Text/basne_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Ave</text>
+        </navLabel>
+        <content src="Text/basne_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Věčnost světla</text>
+        </navLabel>
+        <content src="Text/basne_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Výpad</text>
+        </navLabel>
+        <content src="Text/basne_035.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Navštívení</text>
+        </navLabel>
+        <content src="Text/basne_036.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Torso</text>
+        </navLabel>
+        <content src="Text/basne_037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Růžový pokoj</text>
+        </navLabel>
+        <content src="Text/basne_038.html"/>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/basne_038.html#sigil_toc_id_17"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/basne_038.html#sigil_toc_id_18"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Pohřbívání stromů</text>
+        </navLabel>
+        <content src="Text/basne_039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Počátek světa</text>
+        </navLabel>
+        <content src="Text/basne_040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Denní jízda</text>
+        </navLabel>
+        <content src="Text/basne_041.html"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Tíže zemská</text>
+        </navLabel>
+        <content src="Text/basne_042.html"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Čas lásky</text>
+        </navLabel>
+        <content src="Text/basne_043.html"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Oharky</text>
+        </navLabel>
+        <content src="Text/basne_044.html"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Zlatý věk</text>
+        </navLabel>
+        <content src="Text/basne_045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Sicut erat</text>
+        </navLabel>
+        <content src="Text/basne_046.html"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Dědictví</text>
+        </navLabel>
+        <content src="Text/basne_047.html"/>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/basne_047.html#sigil_toc_id_19"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/basne_047.html#sigil_toc_id_20"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Stesk</text>
+        </navLabel>
+        <content src="Text/basne_048.html"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Noční jízda</text>
+        </navLabel>
+        <content src="Text/basne_049.html"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Mumraj</text>
+        </navLabel>
+        <content src="Text/basne_050.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/basne_051.html"/>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Vábnička</text>
+        </navLabel>
+        <content src="Text/basne_052.html"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>22. 5. 1959</text>
+        </navLabel>
+        <content src="Text/basne_053.html"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Siroba</text>
+        </navLabel>
+        <content src="Text/basne_054.html"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Requiescat</text>
+        </navLabel>
+        <content src="Text/basne_055.html"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Příliv</text>
+        </navLabel>
+        <content src="Text/basne_056.html"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Koktejly</text>
+        </navLabel>
+        <content src="Text/basne_057.html"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Bázeň mé básně</text>
+        </navLabel>
+        <content src="Text/basne_058.html"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Jsem Herodes kajícný</text>
+        </navLabel>
+        <content src="Text/basne_059.html"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Pouhá cesta</text>
+        </navLabel>
+        <content src="Text/basne_060.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/basne_061.html"/>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Smrt Erbenova</text>
+        </navLabel>
+        <content src="Text/basne_062.html"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Škaredá středa</text>
+        </navLabel>
+        <content src="Text/basne_063.html"/>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/basne_063.html#sigil_toc_id_21"/>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/basne_063.html#sigil_toc_id_22"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Před bouří</text>
+        </navLabel>
+        <content src="Text/basne_064.html"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Hon na bažanty</text>
+        </navLabel>
+        <content src="Text/basne_065.html"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Přízemnost</text>
+        </navLabel>
+        <content src="Text/basne_066.html"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Koleda hladu</text>
+        </navLabel>
+        <content src="Text/basne_067.html"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Černé pomyšlení</text>
+        </navLabel>
+        <content src="Text/basne_068.html"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Dětský průvod</text>
+        </navLabel>
+        <content src="Text/basne_069.html"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Ráno po smrti</text>
+        </navLabel>
+        <content src="Text/basne_070.html"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Cesta pouští</text>
+        </navLabel>
+        <content src="Text/basne_071.html"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Jiná koleda hladu</text>
+        </navLabel>
+        <content src="Text/basne_072.html"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Jsou povětří</text>
+        </navLabel>
+        <content src="Text/basne_073.html"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Pak žena</text>
+        </navLabel>
+        <content src="Text/basne_074.html"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Les préludes</text>
+        </navLabel>
+        <content src="Text/basne_075.html"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Cantus firmus</text>
+        </navLabel>
+        <content src="Text/basne_076.html"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Stvoření</text>
+        </navLabel>
+        <content src="Text/basne_077.html"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Romance černomořská</text>
+        </navLabel>
+        <content src="Text/basne_078.html"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Doufání ve smrt</text>
+        </navLabel>
+        <content src="Text/basne_079.html"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Altový doprovod</text>
+        </navLabel>
+        <content src="Text/basne_080.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/basne_081.html"/>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Pastviny těla</text>
+        </navLabel>
+        <content src="Text/basne_082.html"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Srpnový průvod</text>
+        </navLabel>
+        <content src="Text/basne_083.html"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Ženichovo lože</text>
+        </navLabel>
+        <content src="Text/basne_084.html"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Déšť padá na rány</text>
+        </navLabel>
+        <content src="Text/basne_085.html"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>U jednoho stolu</text>
+        </navLabel>
+        <content src="Text/basne_086.html"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Řemeslo</text>
+        </navLabel>
+        <content src="Text/basne_087.html"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>Kdo jsem</text>
+        </navLabel>
+        <content src="Text/basne_088.html"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>A slovo tělem učiněno jest</text>
+        </navLabel>
+        <content src="Text/basne_089.html"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Pletení houžve</text>
+        </navLabel>
+        <content src="Text/basne_090.html"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Sádrové sochy</text>
+        </navLabel>
+        <content src="Text/basne_091.html"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>Síla stálosti</text>
+        </navLabel>
+        <content src="Text/basne_092.html"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>Dálnopis</text>
+        </navLabel>
+        <content src="Text/basne_093.html"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>Doručitelé věnců</text>
+        </navLabel>
+        <content src="Text/basne_094.html"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Jmelí</text>
+        </navLabel>
+        <content src="Text/basne_095.html"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Horečka</text>
+        </navLabel>
+        <content src="Text/basne_096.html"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Úklady</text>
+        </navLabel>
+        <content src="Text/basne_097.html"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>(Jak to můžeš netušit? Když v mém bdění)</text>
+        </navLabel>
+        <content src="Text/basne_098.html"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Mdloba</text>
+        </navLabel>
+        <content src="Text/basne_099.html"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Pastvu má podzim</text>
+        </navLabel>
+        <content src="Text/basne_100.html"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>Poločas</text>
+        </navLabel>
+        <content src="Text/basne_101.html"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>Nespavost</text>
+        </navLabel>
+        <content src="Text/basne_102.html"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>Příběh</text>
+        </navLabel>
+        <content src="Text/basne_103.html"/>
+        <navPoint id="navPoint-122" playOrder="122">
+          <navLabel>
+            <text>Saul</text>
+          </navLabel>
+          <content src="Text/basne_103.html#sigil_toc_id_23"/>
+        </navPoint>
+        <navPoint id="navPoint-123" playOrder="123">
+          <navLabel>
+            <text>Jonathan</text>
+          </navLabel>
+          <content src="Text/basne_103.html#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="navPoint-124" playOrder="124">
+          <navLabel>
+            <text>David král</text>
+          </navLabel>
+          <content src="Text/basne_103.html#sigil_toc_id_25"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>Záznamy</text>
+        </navLabel>
+        <content src="Text/basne_104.html"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Homilie</text>
+        </navLabel>
+        <content src="Text/basne_105.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-127" playOrder="127">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/basne_106.html"/>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>Polední smrt</text>
+        </navLabel>
+        <content src="Text/basne_107.html"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>Příchozí</text>
+        </navLabel>
+        <content src="Text/basne_108.html"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>Vyznání</text>
+        </navLabel>
+        <content src="Text/basne_109.html"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>Studna</text>
+        </navLabel>
+        <content src="Text/basne_110.html"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>Kolchida</text>
+        </navLabel>
+        <content src="Text/basne_111.html"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>Vytrvalý déšť</text>
+        </navLabel>
+        <content src="Text/basne_112.html"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>Souchotiny</text>
+        </navLabel>
+        <content src="Text/basne_113.html"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>Černá hodinka</text>
+        </navLabel>
+        <content src="Text/basne_114.html"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>Divný den</text>
+        </navLabel>
+        <content src="Text/basne_115.html"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>Láska</text>
+        </navLabel>
+        <content src="Text/basne_116.html"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>Kruhy pod očima</text>
+        </navLabel>
+        <content src="Text/basne_117.html"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>Obětina</text>
+        </navLabel>
+        <content src="Text/basne_118.html"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>(Kam dojdeme co po sobě zanecháme?)</text>
+        </navLabel>
+        <content src="Text/basne_119.html"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>(Už jsme jednou zažili jaro)</text>
+        </navLabel>
+        <content src="Text/basne_120.html"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>(Kde jednou smutný)</text>
+        </navLabel>
+        <content src="Text/basne_121.html"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>(Nebo mi pověz)</text>
+        </navLabel>
+        <content src="Text/basne_122.html"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>(Zjevit se přes veškeré maškarády)</text>
+        </navLabel>
+        <content src="Text/basne_123.html"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>Vigilie</text>
+        </navLabel>
+        <content src="Text/basne_124.html"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>Ach —!</text>
+        </navLabel>
+        <content src="Text/basne_125.html"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>Poesie</text>
+        </navLabel>
+        <content src="Text/basne_126.html"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>(Co se nechce napřímit)</text>
+        </navLabel>
+        <content src="Text/basne_127.html"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>Vánoce 77</text>
+        </navLabel>
+        <content src="Text/basne_128.html"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>(Řeknou mi: tumáš kolečko a shrab)</text>
+        </navLabel>
+        <content src="Text/basne_129.html"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>Kampa</text>
+        </navLabel>
+        <content src="Text/basne_130.html"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>19. 1. 1978</text>
+        </navLabel>
+        <content src="Text/basne_131.html"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>(Shořel jsem)</text>
+        </navLabel>
+        <content src="Text/basne_132.html"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>(Stanul jsem zjihlý na ledové kře)</text>
+        </navLabel>
+        <content src="Text/basne_133.html"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>Záznam</text>
+        </navLabel>
+        <content src="Text/basne_134.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-156" playOrder="156">
+      <navLabel>
+        <text>VI LITURGIE ČASU</text>
+      </navLabel>
+      <content src="Text/basne_135.html"/>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/basne_136.html"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/basne_136.html#sigil_toc_id_43"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-176" playOrder="176">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/basne_137.html"/>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>Epika I</text>
+        </navLabel>
+        <content src="Text/basne_138.html"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>Epika II</text>
+        </navLabel>
+        <content src="Text/basne_139.html"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>Epika III</text>
+        </navLabel>
+        <content src="Text/basne_140.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-180" playOrder="180">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/basne_141.html"/>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>Svítání</text>
+        </navLabel>
+        <content src="Text/basne_142.html"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>Koncentrák</text>
+        </navLabel>
+        <content src="Text/basne_143.html"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>Cesta zimou</text>
+        </navLabel>
+        <content src="Text/basne_144.html"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>Uvidět tělo</text>
+        </navLabel>
+        <content src="Text/basne_145.html"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>Vzkříšení</text>
+        </navLabel>
+        <content src="Text/basne_146.html"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>Padesát</text>
+        </navLabel>
+        <content src="Text/basne_147.html"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>O depresi</text>
+        </navLabel>
+        <content src="Text/basne_148.html"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>O naději (I)</text>
+        </navLabel>
+        <content src="Text/basne_149.html"/>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>O naději (II)</text>
+        </navLabel>
+        <content src="Text/basne_150.html"/>
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>(Myšlenka zvadlá v parapetu snu)</text>
+        </navLabel>
+        <content src="Text/basne_151.html"/>
+      </navPoint>
+      <navPoint id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>Abeceda</text>
+        </navLabel>
+        <content src="Text/basne_152.html"/>
+      </navPoint>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>Loučení se synem</text>
+        </navLabel>
+        <content src="Text/basne_153.html"/>
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>Několikátá</text>
+        </navLabel>
+        <content src="Text/basne_154.html"/>
+      </navPoint>
+      <navPoint id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>Cestou</text>
+        </navLabel>
+        <content src="Text/basne_155.html"/>
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>Úplňky</text>
+        </navLabel>
+        <content src="Text/basne_156.html"/>
+      </navPoint>
+      <navPoint id="navPoint-196" playOrder="196">
+        <navLabel>
+          <text>Pád</text>
+        </navLabel>
+        <content src="Text/basne_157.html"/>
+      </navPoint>
+      <navPoint id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>Vteřiny</text>
+        </navLabel>
+        <content src="Text/basne_158.html"/>
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>Otázky</text>
+        </navLabel>
+        <content src="Text/basne_159.html"/>
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>Florencie</text>
+        </navLabel>
+        <content src="Text/basne_160.html"/>
+      </navPoint>
+      <navPoint id="navPoint-200" playOrder="200">
+        <navLabel>
+          <text>Můrovi</text>
+        </navLabel>
+        <content src="Text/basne_161.html"/>
+      </navPoint>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>Podsvětí</text>
+        </navLabel>
+        <content src="Text/basne_162.html"/>
+      </navPoint>
+      <navPoint id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>Řeč o řeči</text>
+        </navLabel>
+        <content src="Text/basne_163.html"/>
+      </navPoint>
+      <navPoint id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>Sestra</text>
+        </navLabel>
+        <content src="Text/basne_164.html"/>
+      </navPoint>
+      <navPoint id="navPoint-204" playOrder="204">
+        <navLabel>
+          <text>Sebevražda</text>
+        </navLabel>
+        <content src="Text/basne_165.html"/>
+      </navPoint>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>Věře</text>
+        </navLabel>
+        <content src="Text/basne_166.html"/>
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>Rozpomněnka</text>
+        </navLabel>
+        <content src="Text/basne_167.html"/>
+      </navPoint>
+      <navPoint id="navPoint-207" playOrder="207">
+        <navLabel>
+          <text>Před Velikonocemi</text>
+        </navLabel>
+        <content src="Text/basne_168.html"/>
+      </navPoint>
+      <navPoint id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>A co zbude po nás?</text>
+        </navLabel>
+        <content src="Text/basne_169.html"/>
+      </navPoint>
+      <navPoint id="navPoint-209" playOrder="209">
+        <navLabel>
+          <text>Vzpomínka</text>
+        </navLabel>
+        <content src="Text/basne_170.html"/>
+      </navPoint>
+      <navPoint id="navPoint-210" playOrder="210">
+        <navLabel>
+          <text>Nebáseň</text>
+        </navLabel>
+        <content src="Text/basne_171.html"/>
+      </navPoint>
+      <navPoint id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>Písnička</text>
+        </navLabel>
+        <content src="Text/basne_172.html"/>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>Bezejmenná</text>
+        </navLabel>
+        <content src="Text/basne_173.html"/>
+      </navPoint>
+      <navPoint id="navPoint-213" playOrder="213">
+        <navLabel>
+          <text>(Koso nenávisti)</text>
+        </navLabel>
+        <content src="Text/basne_174.html"/>
+      </navPoint>
+      <navPoint id="navPoint-214" playOrder="214">
+        <navLabel>
+          <text>(Spánek je milost)</text>
+        </navLabel>
+        <content src="Text/basne_175.html"/>
+      </navPoint>
+      <navPoint id="navPoint-215" playOrder="215">
+        <navLabel>
+          <text>(O čem byly ty pohádky?)</text>
+        </navLabel>
+        <content src="Text/basne_176.html"/>
+      </navPoint>
+      <navPoint id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>(Jestli vůbec je čeho se chytit)</text>
+        </navLabel>
+        <content src="Text/basne_177.html"/>
+      </navPoint>
+      <navPoint id="navPoint-217" playOrder="217">
+        <navLabel>
+          <text>(Vypadá to jako houština a je to řídké)</text>
+        </navLabel>
+        <content src="Text/basne_178.html"/>
+      </navPoint>
+      <navPoint id="navPoint-218" playOrder="218">
+        <navLabel>
+          <text>(A bez ohledu na divoké rozvody na zemi)</text>
+        </navLabel>
+        <content src="Text/basne_179.html"/>
+      </navPoint>
+      <navPoint id="navPoint-219" playOrder="219">
+        <navLabel>
+          <text>(Slepenec úzkosti bych leptal)</text>
+        </navLabel>
+        <content src="Text/basne_180.html"/>
+      </navPoint>
+      <navPoint id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>(Pomalu i ty jsi už kabát posešívaný)</text>
+        </navLabel>
+        <content src="Text/basne_181.html"/>
+      </navPoint>
+      <navPoint id="navPoint-221" playOrder="221">
+        <navLabel>
+          <text>(Na dnešek mi ve světnici ožil motýl)</text>
+        </navLabel>
+        <content src="Text/basne_182.html"/>
+      </navPoint>
+      <navPoint id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>(Proseděl jsem večer s těmi lidmi)</text>
+        </navLabel>
+        <content src="Text/basne_183.html"/>
+      </navPoint>
+      <navPoint id="navPoint-223" playOrder="223">
+        <navLabel>
+          <text>(Není co zamlčet není co říci)</text>
+        </navLabel>
+        <content src="Text/basne_184.html"/>
+      </navPoint>
+      <navPoint id="navPoint-224" playOrder="224">
+        <navLabel>
+          <text>(Byla zima a profesoři jazyka)</text>
+        </navLabel>
+        <content src="Text/basne_185.html"/>
+      </navPoint>
+      <navPoint id="navPoint-225" playOrder="225">
+        <navLabel>
+          <text>(Mlčet a přesto nezamlčet nic)</text>
+        </navLabel>
+        <content src="Text/basne_186.html"/>
+      </navPoint>
+      <navPoint id="navPoint-226" playOrder="226">
+        <navLabel>
+          <text>(Mít slova jako neotřelý sníh)</text>
+        </navLabel>
+        <content src="Text/basne_187.html"/>
+      </navPoint>
+      <navPoint id="navPoint-227" playOrder="227">
+        <navLabel>
+          <text>(Nemám jiné pěsti)</text>
+        </navLabel>
+        <content src="Text/basne_188.html"/>
+      </navPoint>
+      <navPoint id="navPoint-228" playOrder="228">
+        <navLabel>
+          <text>(Jak ti upříst oprátku na krk?)</text>
+        </navLabel>
+        <content src="Text/basne_189.html"/>
+      </navPoint>
+      <navPoint id="navPoint-229" playOrder="229">
+        <navLabel>
+          <text>(Hlásí se to jako únava)</text>
+        </navLabel>
+        <content src="Text/basne_190.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-230" playOrder="230">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/basne_191.html"/>
+      <navPoint id="navPoint-231" playOrder="231">
+        <navLabel>
+          <text>Thunovská</text>
+        </navLabel>
+        <content src="Text/basne_192.html"/>
+      </navPoint>
+      <navPoint id="navPoint-232" playOrder="232">
+        <navLabel>
+          <text>Poříčí</text>
+        </navLabel>
+        <content src="Text/basne_193.html"/>
+      </navPoint>
+      <navPoint id="navPoint-233" playOrder="233">
+        <navLabel>
+          <text>(Byl to den v kterém bylo tak málo jitra)</text>
+        </navLabel>
+        <content src="Text/basne_194.html"/>
+      </navPoint>
+      <navPoint id="navPoint-234" playOrder="234">
+        <navLabel>
+          <text>(Je to jako vypořádat se se saní)</text>
+        </navLabel>
+        <content src="Text/basne_195.html"/>
+      </navPoint>
+      <navPoint id="navPoint-235" playOrder="235">
+        <navLabel>
+          <text>(Bolí to jako neuchopit)</text>
+        </navLabel>
+        <content src="Text/basne_196.html"/>
+      </navPoint>
+      <navPoint id="navPoint-236" playOrder="236">
+        <navLabel>
+          <text>(Že by nebyli démoni?)</text>
+        </navLabel>
+        <content src="Text/basne_197.html"/>
+      </navPoint>
+      <navPoint id="navPoint-237" playOrder="237">
+        <navLabel>
+          <text>(Mám odstonáno)</text>
+        </navLabel>
+        <content src="Text/basne_198.html"/>
+      </navPoint>
+      <navPoint id="navPoint-238" playOrder="238">
+        <navLabel>
+          <text>Bohnice</text>
+        </navLabel>
+        <content src="Text/basne_199.html"/>
+      </navPoint>
+      <navPoint id="navPoint-239" playOrder="239">
+        <navLabel>
+          <text>(Co bych se bál snů?)</text>
+        </navLabel>
+        <content src="Text/basne_200.html"/>
+      </navPoint>
+      <navPoint id="navPoint-240" playOrder="240">
+        <navLabel>
+          <text>(A myslel jsem si)</text>
+        </navLabel>
+        <content src="Text/basne_201.html"/>
+      </navPoint>
+      <navPoint id="navPoint-241" playOrder="241">
+        <navLabel>
+          <text>(Dost jsem se už nadíval)</text>
+        </navLabel>
+        <content src="Text/basne_202.html"/>
+      </navPoint>
+      <navPoint id="navPoint-242" playOrder="242">
+        <navLabel>
+          <text>(Že není bytí kde je hniloba?)</text>
+        </navLabel>
+        <content src="Text/basne_203.html"/>
+      </navPoint>
+      <navPoint id="navPoint-243" playOrder="243">
+        <navLabel>
+          <text>Tělesnosti!</text>
+        </navLabel>
+        <content src="Text/basne_204.html"/>
+      </navPoint>
+      <navPoint id="navPoint-244" playOrder="244">
+        <navLabel>
+          <text>(To jsme se milovali)</text>
+        </navLabel>
+        <content src="Text/basne_205.html"/>
+      </navPoint>
+      <navPoint id="navPoint-245" playOrder="245">
+        <navLabel>
+          <text>(A tak)</text>
+        </navLabel>
+        <content src="Text/basne_206.html"/>
+      </navPoint>
+      <navPoint id="navPoint-246" playOrder="246">
+        <navLabel>
+          <text>(Nejlepší jsou básně tvořené ze slov)</text>
+        </navLabel>
+        <content src="Text/basne_207.html"/>
+      </navPoint>
+      <navPoint id="navPoint-247" playOrder="247">
+        <navLabel>
+          <text>(Já tolik v hlavě kde bych se byl dostal)</text>
+        </navLabel>
+        <content src="Text/basne_208.html"/>
+      </navPoint>
+      <navPoint id="navPoint-248" playOrder="248">
+        <navLabel>
+          <text>(A uvědomil jsem si: Tehdy mi bylo třiatřicet)</text>
+        </navLabel>
+        <content src="Text/basne_209.html"/>
+      </navPoint>
+      <navPoint id="navPoint-249" playOrder="249">
+        <navLabel>
+          <text>(Je zima jak má být)</text>
+        </navLabel>
+        <content src="Text/basne_210.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-250" playOrder="250">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/basne_211.html"/>
+      <navPoint id="navPoint-251" playOrder="251">
+        <navLabel>
+          <text>(Buď šťastná že jsem se tě nedotkl)</text>
+        </navLabel>
+        <content src="Text/basne_212.html"/>
+      </navPoint>
+      <navPoint id="navPoint-252" playOrder="252">
+        <navLabel>
+          <text>(Když holedbavý smutek všecko obrací)</text>
+        </navLabel>
+        <content src="Text/basne_213.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-253" playOrder="253">
+      <navLabel>
+        <text>Prosba</text>
+      </navLabel>
+      <content src="Text/basne_214.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
