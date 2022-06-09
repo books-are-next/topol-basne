@@ -1,7 +1,6 @@
 ---
+title: VI  LITURGIE ČASU
 contentType: prose
 ---
 
-# VI  
-LITURGIE  
-ČASU
+

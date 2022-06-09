@@ -1,33 +1,34 @@
 ---
+title: ''
 contentType: prose
 ---
 
 # První verš
 
-Nemám stání myslím na poesii  
+_Nemám stání myslím na poesii  
 jako by to byla vysněná zem  
 ale nechce se mi tam prodlít  
 a zvučet jako zpívající fontána  
-v parku s vykázanými pěšinami
+v parku s vykázanými pěšinami_
 
-Tak jsem si to jednou zamířil  
+_Tak jsem si to jednou zamířil  
 přes trávník v Chotkových sadech  
 k památníku Julia Zeyera  
 poklonit se milovanému poetovi  
 seřval mě tam postarší pán  
-a zaplatil jsem pokutu byl to Hlídač
+a zaplatil jsem pokutu byl to Hlídač_
 
-Nedivil jsem se  
+_Nedivil jsem se  
 ale taky chci věřit že jsem od Boha  
 ne zrovna básník ale Ten a Ten  
 který se nebude už opakovat  
 a stále čekám na svůj První verš  
-(ten od Boha: Paul Valéry)
+(ten od Boha: Paul Valéry)_
 
-Ne že bych jako Walt Disney  
+_Ne že bych jako Walt Disney  
 chtěl mít svůj Disneyland  
 se sty hektarů urvaných poušti  
 s umělými jezery a vodopády  
 s umělým bělochem mučeným umělými Indiány  
 s hrochy na elektrický pohon  
-s životem na baterku
+s životem na baterku_

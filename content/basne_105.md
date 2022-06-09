@@ -1,10 +1,11 @@
 ---
+title: ''
 contentType: prose
 ---
 
 ## Homilie
 
-Den prochází se zahradou  
+_Den prochází se zahradou  
 my pomýšlíme nad zradou  
 kdo koho zradil a kdo s kým  
 noc mávla pláštěm nebeským  
@@ -19,18 +20,18 @@ ale ten ťukot posléz dozní
 bez jiskry jen se mihotám  
 a nakonec se už jen ptám:  
 Ještě než vstoupí na hliněných nohou  
-kdo s koho Bože můj kdo s koho?
+kdo s koho Bože můj kdo s koho?_
 
-Hnijící odcházející růží sklad  
+_Hnijící odcházející růží sklad  
 odešel říjen je tu listopad  
 nad chalupami si vítr vejská  
 a nad strništěm nezvaného hejska  
 co bylo psáno spěje k nepaměti  
-(nevíme dosud co si myslí děti)
+(nevíme dosud co si myslí děti)_
 
-Z Ruzyně z ještě vyšších výši  
+_Z Ruzyně z ještě vyšších výši  
 k nám tvrdě dopadá ten psí syn  
 v kumbálech hospod zas to páchne močí  
-a budoucnost nám vylupuje oči
+a budoucnost nám vylupuje oči_
 
 1968
