@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -18,8 +19,8 @@ ach, udělat ji lehkou, aby se nesla!
 
 Co naložím té básni?  
 Budu vypočítávat sedm věcí,  
-pak vylučovat jako při hře Ven z kola!  
-v poslední libovolně zvolené  
+pak vylučovat jako při hře _Ven z kola!  
+_v poslední libovolně zvolené  
 (mohla to být kterákoliv ze sedmi),  
 v poslední věci bude uložen slavný řád.
 
@@ -32,7 +33,7 @@ Básni, neopouštěj přísnost náčrtu!
 
 Boží hlava se mění v tmel pro mé prsty.  
 Přízrak z opery se vychloubá:  
-Lze podlehnout, lze zapomenout pouze!
+_Lze podlehnout, lze zapomenout pouze!_
 
 Budu vymýšlet hry k bdění,  
 hry zažehnávající spánek.  
@@ -47,4 +48,4 @@ pohyb nejlépe svědčí uhýbání,
 stálý krouživý pohyb jako v tanci!
 
 Tonoucí básni, už se stébla chytáš:  
-Slib vydal skřek a žbluňkl do tmy.
+_Slib vydal skřek a žbluňkl do tmy._

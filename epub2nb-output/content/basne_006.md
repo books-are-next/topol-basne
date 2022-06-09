@@ -1,9 +1,6 @@
 ---
+title: I  BÁSNĚ A JEJICH TORSA
 contentType: prose
 ---
 
-# I  
-BÁSNĚ  
-A JEJICH TORSA
-
-Červen 1958
+_Červen 1958_
