@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Sicut erat
 contentType: prose
 ---
 
-## Sicut erat
+<section>
 
 Mucholapka vždy lapí  
 Tu trváš  
@@ -29,3 +29,5 @@ Něčí milostné prsty
 Tě otvírají vábnější než dosud  
 (A jakož bylo na počátku)  
 Mucholapka vždy lapí
+
+</section>

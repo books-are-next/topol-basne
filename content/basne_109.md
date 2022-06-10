@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Vyznání
 contentType: prose
 ---
 
-## Vyznání
+<section>
 
 Nechce se mi žít  
 když tě nevidím  
@@ -23,3 +23,5 @@ Vstaň Lazare?
 Ne abych přežil:
 
 Vstaň a miluj!
+
+</section>

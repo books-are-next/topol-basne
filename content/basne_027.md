@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Krutost
 contentType: prose
 ---
 
-## Krutost
+<section>
 
-### I
+## I
 
 I pod nejhebčí duší  
 Vlčí tesák se viklá  
@@ -18,7 +18,7 @@ Kluzkou zvířecí stopu
 A není studně dosti hluboké  
 Aby mu sahala až ke rtům
 
-### II
+## II
 
 Je-li některý z nich krutý
 
@@ -36,3 +36,5 @@ Bělmo svých stop
 
 Proti krutosti žádné  
 Obrany není
+
+</section>

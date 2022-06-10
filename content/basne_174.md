@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Koso nenávisti  
 stínající dosud nezralé klasy!
@@ -26,3 +26,5 @@ když se rozpínáme až nad svůj objem
 anebo se zřítíme kolmo dovnitř  
 když to žijeme tak naplno  
 a bez rezervy
+
+</section>

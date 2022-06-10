@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Vzkříšení
 contentType: prose
 ---
 
-## Vzkříšení
+<section>
 
 Krásní trilobiti skrytí v kamení  
 jak vám závidím!  
@@ -48,3 +48,5 @@ jehož mluvčím je Homér
 a Vykupitelem Kristus
 
 Krakovec, Velikonoce 1980
+
+</section>

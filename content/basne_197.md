@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Že by nebyli démoni?  
 Co je s pravnuky ohně?  
@@ -26,3 +26,5 @@ tam spadnem tam jsme uhněteni
 
 a pak už jenom žijeme  
 tenhle život
+
+</section>

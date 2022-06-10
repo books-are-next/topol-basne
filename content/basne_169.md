@@ -1,9 +1,9 @@
 ---
-title: ''
+title: A co zbude po nás?
 contentType: prose
 ---
 
-## A co zbude po nás?
+<section>
 
 Dosud je tu tělo  
 stan sladkosti  
@@ -36,3 +36,5 @@ Tahal dědek tahala bába tahaly děti
 Zapomenem na horu Říp
 
 A co zbude po nás?
+
+</section>

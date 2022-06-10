@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pohřbívání stromů
 contentType: prose
 ---
 
-## Pohřbívání stromů
+<section>
 
 Nesluší se  
 Aby strom vyvrácený v bouři nebyl pohřben
@@ -33,3 +33,5 @@ Umyjte dlaně které vykonaly poslední práci
 
 A tělo stromu pouto marnosti  
 Stane se vaší podnoží v sypké zemi
+
+</section>

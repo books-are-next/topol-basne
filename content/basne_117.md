@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Kruhy pod očima
 contentType: prose
 ---
 
-## Kruhy pod očima
+<section>
 
 A nic se neděje
 
@@ -56,3 +56,5 @@ skřehotaly: Máme je u Pána
 Nebylo to důstojné ani spravedlivé  
 když se stařec potýkal s mikrofony  
 aby ozvučil slovo boží
+
+</section>

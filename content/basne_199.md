@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Bohnice
 contentType: prose
 ---
 
-## Bohnice
+<section>
 
 Richardu Balonovi
 
@@ -27,3 +27,5 @@ zaslechl jsem hlas bratra saniťáka:
 teď mi volali z prodejny mají sparty!
 
 Píchli do mne injekci a usnul jsem
+
+</section>

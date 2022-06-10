@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Hon na bažanty
 contentType: prose
 ---
 
-## Hon na bažanty
+<section>
 
 Ticho po římse stoupá  
 Dlouhé mraky se lámou  
@@ -35,3 +35,5 @@ však tuhý
 Pod oknem za drápek visí  
 Nic do něj není  
 Prst mu podala smrt
+
+</section>

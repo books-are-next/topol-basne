@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Polední smrt
 contentType: prose
 ---
 
-## Polední smrt
+<section>
 
 Jako když se vytavil důl a horkost zlata  
 ho splavuje do dutin země  
@@ -30,3 +30,5 @@ snad jen ještě naléhavěji
 se rozvíjíte v instinktu záhuby — —
 
 Proč se vám nepodobám?
+
+</section>

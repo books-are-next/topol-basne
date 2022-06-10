@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Loučení se synem
 contentType: prose
 ---
 
-## Loučení se synem
+<section>
 
 Okno po ránu otevírám  
 všude jenom zdánlivé ticho  
@@ -22,3 +22,5 @@ když předtím vpadli do našeho života
 úderem hromu
 
 10\. července 1981
+
+</section>

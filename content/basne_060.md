@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pouhá cesta
 contentType: prose
 ---
 
-## Pouhá cesta
+<section>
 
 Příliš vysoko je Bůh, aby vzdalování  
 se vystříhal k těm zdola.
@@ -32,3 +32,5 @@ a z lásky teprv albatros hlavy
 tepe křídly a zobák svůj noří.
 
 Jsme pouhá cesta k nebi.
+
+</section>

@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Hlasy
 contentType: prose
 ---
 
-## Hlasy
+<section>
 
-### I
+## I
 
 Zem dětské umolousance vždy má  
 Bloudi prázdnem se smutky si hrají  
@@ -32,7 +32,7 @@ Za střepy třpytivého smíchu
 Na kovadlině kují hlučné štěstí  
 Jiné neoslyšené se svíjí v tichu
 
-### II
+## II
 
 Poznáš po hlase ptáky? Poznám noc  
 Když překlápí svou ošatku a stmívá  
@@ -54,7 +54,7 @@ Ač mnohé trápení ho rmutem kalí
 Po něm je každý studnicí vzácné vody  
 Po níž se všichni žíznící ptali
 
-### III
+## III
 
 Jde za obolos polibku tím krajem  
 Vlci tam drtí v zubech lkavou flétnu  
@@ -90,3 +90,5 @@ Kdesi pod prahorami má skrytý klín
 Jenom stromy tuší svými kořeny  
 Valoun rudy který nezvětral  
 Temný příslib který stoupá k hrudi
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Stvoření
 contentType: prose
 ---
 
-## Stvoření
+<section>
 
 Z božího ukazováku se onoho dne  
 Sesmeklo tělo Kámen zazvonil  
@@ -31,3 +31,5 @@ První zvuk třeskl o hlušinu skal
 A plachá obloha přistižená jitrem  
 Vzlétla k zenitu s odvrácenou tváří  
 Jak divá labuť hlavu křídlem klenouc
+
+</section>

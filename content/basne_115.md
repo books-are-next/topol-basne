@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Divný den
 contentType: prose
 ---
 
-## Divný den
+<section>
 
 Den jak ho vyplašili hajní  
 co jedou vlakem bodře rozvalení  
@@ -35,3 +35,5 @@ a není soucit co v nich dovádí
 Setmělo se Kam modrý les  
 ještě před hodinou tak zřetelný  
 šel na vlastní pohřeb?
+
+</section>

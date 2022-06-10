@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Cantus firmus
 contentType: prose
 ---
 
-## Cantus firmus
+<section>
 
 Kdo sám se za noci budí  
 Doteky třešňovými  
@@ -37,3 +37,5 @@ Povolán výkupčím smrti
 Nebude zaveden v bídu  
 Kdo sám se za noci budí  
 Doteky třešňovými
+
+</section>

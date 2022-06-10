@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Já tolik v hlavě kde bych se byl dostal  
 až k podstavci?
@@ -34,3 +34,5 @@ kde se zavilostí jemu vlastní
 rozum ničí co se mu příčí
 
 Tudíž sám sebe
+
+</section>

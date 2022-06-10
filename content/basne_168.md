@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Před Velikonocemi
 contentType: prose
 ---
 
-## Před Velikonocemi
+<section>
 
 A pravila ta venkovská žena:  
 To je dneska šeredný vítr!
@@ -23,3 +23,5 @@ jako zjevené slovo evangelia
 jako znovu slyšená radostná zvěst  
 v dohledu je planoucí keř  
 v opuštěné krajině bezdomova
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Tajnosti
 contentType: prose
 ---
 
-## Tajnosti
+<section>
 
 Někdo rybu položil  
 Do rukou slunce  
@@ -26,3 +26,5 @@ Chtěli ukrást a byli prozrazeni
 Růže pohasla jsou hříšně nazí  
 Tolik na zlaté plátky spolehnuti  
 V nozdrách ještě dotek jejích vůní
+
+</section>

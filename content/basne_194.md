@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Byl to den v kterém bylo tak málo jitra  
 Jak patka seříznutá už bez střídy  
@@ -18,3 +18,5 @@ odhalených dásněmi v úsměvu
 Ale nebyl to než úšklebek opovržení  
 už uchystaný k první slabice  
 nežli přijdou ke slovu pěsti
+
+</section>

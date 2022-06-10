@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Růžový pokoj
 contentType: prose
 ---
 
-## Růžový pokoj
+<section>
 
-### I
+## I
 
 Tělo usíná  
 Tvrdě pěchovaná selská duchna  
@@ -22,7 +22,7 @@ V ústech na prsou a na víčkách
 Je kámen  
 A pod ním dodoutnává jiskra
 
-### II
+## II
 
 Růžové záclony podél oken  
 V zeleň odpoledního léta  
@@ -35,3 +35,5 @@ Panáček pod zrcadlem odněkud z pouti
 Je zahleděn v tom tichu bůhvíkam  
 S veselým úsměvem který je tlačen z gumy  
 Navždy mrtvý a rozradostněn
+
+</section>

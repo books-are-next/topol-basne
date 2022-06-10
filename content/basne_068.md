@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Černé pomyšlení
 contentType: prose
 ---
 
-## Černé pomyšlení
+<section>
 
 Chvěju se při pomyšlení,  
 neboť pomyšlení víc než zima a hlad  
@@ -21,3 +21,5 @@ zelených misijí, přišlých v kamenný zmar,
 v žule slov ustydlou krásu,  
 na kterou dýchám ústy,  
 spatříš jako svou vlastní.
+
+</section>

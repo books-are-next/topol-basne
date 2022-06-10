@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Dětský průvod
 contentType: prose
 ---
 
-## Dětský průvod
+<section>
 
 Kde nenapodobitelný vítr s chůdu klesá  
 V břehu divoké samaritánské trávy  
@@ -32,3 +32,5 @@ Nosí chudým dětem psaníčka andělů
 Kvočny pod sítem přečkávají nálet jestřábů  
 Srdnatý kohout buší křídly v tyčkovém plotě  
 Plný jasného ohně který naposled vzplál
+
+</section>

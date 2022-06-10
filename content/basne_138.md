@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Epika I
 contentType: prose
 ---
 
-## Epika I
+<section>
 
 Sestře
 
@@ -76,3 +76,5 @@ ti nemám za zlé cos chtěla učinit!
 spravedlivý Bůh svěřuje čistým duším
 
 24\. dubna 1980
+
+</section>

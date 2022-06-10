@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Před bouří
 contentType: prose
 ---
 
-## Před bouří
+<section>
 
 Div se samotný klase  
 Co z modra chrp se kloníš  
@@ -12,3 +12,5 @@ A nebe zatahují
 Ale kdo modré oči má  
 Tomu se o blankytu zdá  
 Když hlavu skloní k zemi
+
+</section>

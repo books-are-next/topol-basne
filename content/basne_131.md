@@ -1,9 +1,9 @@
 ---
-title: ''
+title: 19\. 1\. 1978
 contentType: prose
 ---
 
-## 19\. 1. 1978
+<section>
 
 Vetřít se do babího lůna  
 kde není vzniku  
@@ -42,3 +42,5 @@ který je pěstoun ne otec
 a přece truhlář  
 ne žhář  
 který podpálí kotec!
+
+</section>

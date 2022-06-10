@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Sebevražda
 contentType: prose
 ---
 
-## Sebevražda
+<section>
 
 Sám sebe nemít rád  
 s vlastní smrtí hrát  
@@ -38,3 +38,5 @@ bez krve mouky bez koření
 jsme pokrm pro diabetické upíry
 
 A to nás neuživí
+
+</section>

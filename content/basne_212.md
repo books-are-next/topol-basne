@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Buď šťastná že jsem se tě nedotkl  
 Usínala jsi když jsem se naklonil  
@@ -26,3 +26,5 @@ který se nerozední
 A když tak ne pro mne
 
 21\. října 1986
+
+</section>

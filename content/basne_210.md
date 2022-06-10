@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Je zima jak má být  
 zima podle pana Celsia  
@@ -30,3 +30,5 @@ tvého zahloubání a mého smutku
 Lekli jsme se ve stejnou chvíli  
 když na parketu při Marii Rottrové  
 se ozvalo: Ježíšmarijá ty kurvo!
+
+</section>

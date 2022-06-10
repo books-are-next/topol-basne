@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Půl noci
 contentType: prose
 ---
 
-## Půl noci
+<section>
 
 Měsíc megaloman  
 Žhnul aby předstih pověst slunce  
@@ -39,3 +39,5 @@ Bdící s předtuchou krásné smrti
 Jdoucí s jistotou  
 S jistotou  
 Jdoucí k nám
+
+</section>

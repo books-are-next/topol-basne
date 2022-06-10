@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Dědictví
 contentType: prose
 ---
 
-## Dědictví
+<section>
 
-### I
+## I
 
 Timbr otcovský a matčin hlas  
 Hluboko pod slovy nám zní  
@@ -23,7 +23,7 @@ V cínové misce připéká se čas
 A v lačnost dětí padl stín dvou ryb  
 Ryby Světélkující a Mlčící
 
-### II
+## II
 
 Noc z nocturna stříbrného  
 Svítání vrhá režnou smyčku  
@@ -36,3 +36,5 @@ To doutná závist k těm kdo kouzelničí
 Na denní světlo vlekou bledé sny  
 My vprostřed svých se probouzíme  
 Z útrob hus kapitolských hřezne tajemství
+
+</section>

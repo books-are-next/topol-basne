@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Není co zamlčet není co říci  
 Ještě snad hudba  
@@ -24,3 +24,5 @@ Strop je jistější než obloha
 A přátelé?
 
 Na ty si vzpomeneme
+
+</section>

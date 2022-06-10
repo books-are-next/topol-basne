@@ -1,9 +1,9 @@
 ---
-title: ''
+title: A slovo tělem učiněno jest
 contentType: prose
 ---
 
-## A slovo tělem učiněno jest
+<section>
 
 A slovo tělem učiněno jest  
 zahrada rozkoší i trest
@@ -46,3 +46,5 @@ Nepřeju si teď jedno ani druhé
 až dosud se nevymyslelo nic:  
 buď lze tuto Zemi orat Pluhem  
 nebo už nemá rub a líc
+
+</section>

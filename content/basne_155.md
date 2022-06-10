@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Cestou
 contentType: prose
 ---
 
-## Cestou
+<section>
 
 Mír mne překvapil po dnech boje  
 udolal mne div ne hnilobný klid  
@@ -37,3 +37,5 @@ ostatně to ani nebyla cesta
 Nevěděl jsem kde jsem a zastavil se
 
 18\. ledna 1983
+
+</section>

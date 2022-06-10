@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Vzpomínka
 contentType: prose
 ---
 
-## Vzpomínka
+<section>
 
 Vidíš sám: Není spočinutí  
 stále odněkud někam  
@@ -35,3 +35,5 @@ není lidské lásky aby nepřekonávala
 tuto daň svobody:  
 Být ačkoliv se nám nechce  
 milovat i když jsme to už zapomněli
+
+</section>

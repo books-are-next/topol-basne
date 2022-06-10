@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Nejlepší jsou básně tvořené ze slov:  
 Obtěžkán jako mezek nespočetnými dojmy  
@@ -36,3 +36,5 @@ Vidět slepce na ulici a převést ho?
 Zaradovat se z transfúze a hledat dárce?  
 Šlápnout do kobylince a neproklít koně?  
 Potkat lásku a zamilovat se?
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Nebesa
 contentType: prose
 ---
 
-## Nebesa
+<section>
 
 Slovácký malíř špachtlí nanášený  
 Aby se rozpoznal  
@@ -26,3 +26,5 @@ Tvoje pravda je daleko jak pravé hvězdy
 Pod stropem špachtlí malovaným  
 Z cigaret podezřelé chuti  
 Je koldokola bílá tma
+
+</section>

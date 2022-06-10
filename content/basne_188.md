@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Nemám jiné pěsti  
 než tyto ratolesti  
@@ -18,3 +18,5 @@ Co se stalo
 se neodestane
 
 Amen
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Snoubení
 contentType: prose
 ---
 
-## Snoubení
+<section>
 
 V povětří se dějí jejich zásnuby  
 Trsy ňader prosvítavé náruče matné klíny  
@@ -35,3 +35,5 @@ Tluče břinkovicí a tančí
 
 Neboť všechno pod sluncem  
 Žije z nedočkavosti slunce
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Denní jízda
 contentType: prose
 ---
 
-## Denní jízda
+<section>
 
 Dýchnuv do poháru den se zamží  
 Srdce nemilostí strojí mráz  
@@ -40,3 +40,5 @@ Srdce nemilostí strojí mráz
 Na tyči sklářově se tyčí  
 Naposled duhový plápol  
 Zlatých a modrých křídel
+
+</section>

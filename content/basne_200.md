@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Co bych se bál snů?  
 Je kluzko po poledni  
@@ -58,3 +58,5 @@ i když Adam a Eva byli vyobcováni
 Dürerem z Ráje
 
 A přece jen Spolu
+
+</section>

@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Škaredá středa
 contentType: prose
 ---
 
-## Škaredá středa
+<section>
 
-### I
+## I
 
 Stonkem vytržení jsem připoután k břehu nebe,  
 ale mšice soužení  
@@ -21,7 +21,7 @@ Kdo holoubátko v zastuzeném vejci?
 Zda z jabka, zalitého olovem,  
 se bledý červík může prodrat ven?
 
-### II
+## II
 
 Oblaků mléko sněží z Kozích hor  
 uprostřed léta. Dlouhé stvoly jiřin  
@@ -37,3 +37,5 @@ do se to ve mně bere?
 Jako když ze země Aromathie  
 sloup voňavý se napřimuje  
 a za srdce mě bere.
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pastviny těla
 contentType: prose
 ---
 
-## Pastviny těla
+<section>
 
 Očima nemodlivýma mne svlékáš  
 opilým dechem rabuješ mé rty  
@@ -12,3 +12,5 @@ mého boku jak svého hřebce
 dosud nezkroceného v prérii těla  
 na mé mlčení roubuješ rozčepýřený  
 květ bující mezi stehny
+
+</section>

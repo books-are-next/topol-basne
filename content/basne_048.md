@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Stesk
 contentType: prose
 ---
 
-## Stesk
+<section>
 
 Jiřímu Kuběnovi — Český Šternberk
 
@@ -21,3 +21,5 @@ Lasička stesku stéblem stoupá
 a byl-li bělobýl?  
 Oharek slunce marně tmou pách —  
 černobýl, černobýl!
+
+</section>

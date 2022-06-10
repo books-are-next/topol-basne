@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Bázeň mé básně
 contentType: prose
 ---
 
-## Bázeň mé básně
+<section>
 
 Bude to možná trvat celou věčnost,  
 než ze dna moře začne stoupat  
@@ -33,3 +33,5 @@ aby, co zakázáno zde bylo,
 mi vrátil.
 
 1960
+
+</section>

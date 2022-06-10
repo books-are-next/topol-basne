@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Siroba
 contentType: prose
 ---
 
-## Siroba
+<section>
 
 Sergejovi Machoninovi
 
@@ -29,3 +29,5 @@ před zimou lesy smrkové nás chrání
 sirobou oblečeni jíme domácí chléb
 
 9\. prosince 1959
+
+</section>

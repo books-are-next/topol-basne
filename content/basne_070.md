@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Ráno po smrti
 contentType: prose
 ---
 
-## Ráno po smrti
+<section>
 
 Laskavá oblaka plynou,  
 probouzejí se malátní důchodci  
@@ -30,3 +30,5 @@ křehkost země v ochranu berou konipásci,
 žluvy radostně na bílých břízách klovou,  
 stará nebesa k zemi vášnivě lnou  
 v užaslém rozpoznání.
+
+</section>

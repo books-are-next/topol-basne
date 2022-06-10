@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Kam dojdeme co po sobě zanecháme?  
 Zmizí otvory natož brány a dveře  
@@ -42,3 +42,5 @@ A jdeme
 A když na to přijde  
 klademe kytice a věnce  
 u pat žulových mrtvol
+
+</section>

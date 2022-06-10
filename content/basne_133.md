@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Stanul jsem zjihlý na ledové kře  
 pojednou jsem uslyšel bouřit tóny  
@@ -13,3 +13,5 @@ je to skvrna po lásce která pouští
 když nezadržíme dech
 
 26\. července 1978
+
+</section>

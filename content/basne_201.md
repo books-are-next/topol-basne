@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 A myslel jsem si:  
 Tolikrát pořezaný  
@@ -25,3 +25,5 @@ Ona zatím z dna ponížení
 znovu spatřila hvězdy Pamiru
 
 Co žene tu ženu?
+
+</section>

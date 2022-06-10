@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Řeknou mi: tumáš kolečko a shrab  
 podzimní listí! Pokorou opásaný  
@@ -19,3 +19,5 @@ Je po svátcích Panstvo se veselilo
 pojídalo domácí klobásy a pilo  
 teď je třeba honem zahladit stopy  
 z opic opět udělat lidoopy
+
+</section>

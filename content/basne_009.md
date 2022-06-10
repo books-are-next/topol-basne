@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Proměny
 contentType: prose
 ---
 
-## Proměny
+<section>
 
 Ještě se dlouze srpy brousí  
 Horské potoky jiskří k ránu  
@@ -114,3 +114,5 @@ Dunění střelby řvoucí vzduch úpí
 Naděj je pták který vzlétá
 
 1957
+
+</section>

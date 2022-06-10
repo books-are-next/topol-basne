@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Úklady
 contentType: prose
 ---
 
-## Úklady
+<section>
 
 Jen prchavému souzena je stálost  
 Beztvaré časem vytvoří si tvář  
@@ -24,3 +24,5 @@ Tak osiřelo dítě prvních slov
 Za slepou bábu půjde do kouta  
 A naposledy v smrti uslyší:  
 Nezlob a hrej si tu máš kohouta
+
+</section>

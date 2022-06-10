@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Jak ti upříst oprátku na krk?  
 Jak odděložnit tvé lůno  
@@ -18,3 +18,5 @@ nebo půlnoční hrot?
 
 Zvol si sama  
 svůj osud
+
+</section>

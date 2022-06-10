@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Mdloba
 contentType: prose
 ---
 
-## Mdloba
+<section>
 
 Plavu naznak mám v nedohlednu hlavu  
 na ní čepici z maškary ale jinak  
@@ -16,3 +16,5 @@ je taky není nic jiného než je —
 jak pomuchlané jsou jarní noci  
 zatímco letní průzračná má jedinou brož  
 zlatistý měsíc
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 A uvědomil jsem si: Tehdy mi bylo třiatřicet let  
 Kristova léta jak by napsal kronikář
@@ -30,3 +30,5 @@ být sám oves jehož klas
 roste z úpatí Hradčan do střechýlů  
              svatovítského dómu:  
 Václav Vojtěch a Jan
+
+</section>

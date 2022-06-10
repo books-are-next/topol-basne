@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Jestli vůbec je čeho se chytit  
 tedy za cíp nitě v prožraném saku  
@@ -35,3 +35,5 @@ mokvající tvarohové taštičky v celofánu
 hněteš těsto sám roztopíš troubu
 
 neboť je Posvícení!
+
+</section>

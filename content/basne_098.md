@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Jak to můžeš netušit? Když v mém bdění  
 jsi přítulný bok mého vylekaného spánku  
@@ -15,3 +15,5 @@ Jak to můžeš nevědět? I v mdlobě
 když už mám na kahánku  
 tě cítím jako ústřice  
 perlu v své škebli
+
+</section>

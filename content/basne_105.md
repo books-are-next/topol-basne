@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Homilie
 contentType: prose
 ---
 
-## Homilie
+<section>
 
 _Den prochází se zahradou  
 my pomýšlíme nad zradou  
@@ -35,3 +35,5 @@ v kumbálech hospod zas to páchne močí
 a budoucnost nám vylupuje oči_
 
 1968
+
+</section>

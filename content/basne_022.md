@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Zavržení
 contentType: prose
 ---
 
-## Zavržení
+<section>
 
 A pak rozkradli tvá žebra  
 Pro lůžka žen a monastýr  
@@ -29,3 +29,5 @@ Stejná rozkoš je pouhé zavržení
 Jeden krok ve tmě plavba bůhví kam  
 Žít muka a být přichystaný  
 Popravčí četě s hlavou dolů
+
+</section>
