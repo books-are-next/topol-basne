@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Řeč o řeči
 contentType: prose
 ---
 
-## Řeč o řeči
+<section>
 
 Nejsou věty ani chudinké věty  
 natož bohatá souvětí  
@@ -24,3 +24,5 @@ Už se neboříme v bažinách žíznivého léta
 jdem bez závrati vymezenými cestami  
 uprostřed lánů v duchu přemíláme  
 sypkou saharu prázdných slov
+
+</section>

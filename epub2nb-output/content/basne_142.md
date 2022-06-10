@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Svítání
 contentType: prose
 ---
 
-## Svítání
+<section>
 
 Zesnulé ticho lednového dne  
 Nevidím dosud tuším svítání  
@@ -16,3 +16,5 @@ Jenom straka ošálená bloudí od stromu
 na jehnědách ji zlákaly zmrzlé slzy
 
 1980
+
+</section>

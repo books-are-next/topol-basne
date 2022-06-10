@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Doufání ve smrt
 contentType: prose
 ---
 
-## Doufání ve smrt
+<section>
 
 Kmity nespočetnými  
 Jak perpetuum mobile  
@@ -24,3 +24,5 @@ Pohyb bratr náš nevlastní
 Nás upomíná k jedinému otci
 
 Bude to asi chvíle předjitřní
+
+</section>

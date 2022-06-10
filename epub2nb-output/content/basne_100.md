@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pastvu má podzim
 contentType: prose
 ---
 
-## Pastvu má podzim
+<section>
 
 Je z koudele nebe stromy zhubly  
 Ještě chryzantém bledé pochodně planou  
@@ -24,3 +24,5 @@ Sám a jediný jdu klopotnou cestou
 K čerčanské topírně: Hle nádraží  
 Sebe potkávám sobě nabízím ruku  
 Osamělý pozdrav úsměv a cit
+
+</section>

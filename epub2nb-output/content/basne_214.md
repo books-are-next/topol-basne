@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Prosba
 contentType: prose
 ---
 
-## Prosba
+<section>
 
 _Ach Bože šeptaje se ptám  
 nerozvážeš můj slib  
@@ -22,3 +22,5 @@ s navždy strženou tváří)
 Ty nejihneš a mé ruce  
 jako vši žebráka se chytají  
 tvého milosrdenství!_
+
+</section>

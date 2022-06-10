@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Koncentrák
 contentType: prose
 ---
 
-## Koncentrák
+<section>
 
 Jestli kdy kdo když prchal  
 ne jako lupič z prázdné banky  
@@ -33,3 +33,5 @@ ale nepamatujeme
 si samého Boha
 
 21\. ledna 1980
+
+</section>

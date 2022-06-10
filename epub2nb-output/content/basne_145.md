@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Uvidět tělo
 contentType: prose
 ---
 
-## Uvidět tělo
+<section>
 
 Chtěli bysme mít jak plurálem majestatis  
              říkal císař  
@@ -53,3 +53,5 @@ námět k pomníku i k pranýři
 Všecko zšedlo a všichni se odmlčeli
 
 Zavidov, 1980
+
+</section>

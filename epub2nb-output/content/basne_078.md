@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Romance černomořská
 contentType: prose
 ---
 
-## Romance černomořská
+<section>
 
 Nebem byl počat  
 A měl barvu vody  
@@ -28,3 +28,5 @@ By propadl rád —
 Holubi mořští už prchají chvíli  
 Když hříbě vlny se po břehu honí  
 V medúzách vánek si lehounce hrá
+
+</section>

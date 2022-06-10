@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Epika III
 contentType: prose
 ---
 
-## Epika III
+<section>
 
 Takže je ve mně básník?  
 Ta představa mě nevzruší
@@ -40,3 +40,5 @@ přesto bytost stvořená
 byť jen palcem věčného Boha
 
 Krakovec, 1980
+
+</section>

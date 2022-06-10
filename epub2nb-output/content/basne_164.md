@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Sestra
 contentType: prose
 ---
 
-## Sestra
+<section>
 
 Syn svého otce ale nevídal jsem ho  
 po celé věky (celé dny)  
@@ -19,3 +19,5 @@ o všechny se budeme starat!
 Donosila jediného syna lapala po dechu  
 S obhroublou láskou v namoženém srdci  
 mi řekla: To bys mi byl dal — stačil ten jeden!
+
+</section>

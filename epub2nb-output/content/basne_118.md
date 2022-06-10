@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Obětina
 contentType: prose
 ---
 
-## Obětina
+<section>
 
 Už není na štuk natož na mramor  
 I múze z gypsu došla sádra  
@@ -21,3 +21,5 @@ Drolí se pomalu a mouční
 Jako jablko zvané Skleněné letní  
 Až jeho sladká Substance  
 Není než větrem nabíraný prach
+
+</section>

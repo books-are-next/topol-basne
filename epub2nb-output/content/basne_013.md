@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Triumf
 contentType: prose
 ---
 
-## Triumf
+<section>
 
 Pět statných nosičů  
 Trikoty se však shrnuji  
@@ -43,3 +43,5 @@ A ticho
 
 Pět statných nosičů  
 S ostatky kvetoucích statků
+
+</section>

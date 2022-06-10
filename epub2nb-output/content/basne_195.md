@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Je to jako vypořádat se se saní  
 bez pohádkového meče  
@@ -22,3 +22,5 @@ vycpal ramena a vyztužený
 byl zase ten svůdný mrchožrout  
 co se s tím patlá  
 patlá a sere
+
+</section>

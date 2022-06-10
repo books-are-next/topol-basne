@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Smrt Erbenova
 contentType: prose
 ---
 
-## Smrt Erbenova
+<section>
 
 Jenom umírajících oči  
 Vidí mytický pažit  
@@ -95,3 +95,5 @@ Stojí na hlavě zrudlý
 Haleká pradávnou báj  
 To co podobu nemá  
 Slovem je učiněno
+
+</section>

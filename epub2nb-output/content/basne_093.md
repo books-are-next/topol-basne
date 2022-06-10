@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Dálnopis
 contentType: prose
 ---
 
-## Dálnopis
+<section>
 
 Petrovi V.
 
@@ -31,3 +31,5 @@ Ve stínu stébel spíš
 Slepice hrob ti hrabou  
 Nad rakví selky lelkují  
 Ministrant rozhoupává zvon
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Příchozí
 contentType: prose
 ---
 
-## Příchozí
+<section>
 
 Jak zrno na skleněné tabuli  
 nebeskou slípku čekám  
@@ -33,3 +33,5 @@ ale Kdo přichází kdo přichází
 v příchozího se promění
 
 a přijde
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Mlčet a přesto nezamlčet nic  
 mluvit a přece neříci
@@ -18,3 +18,5 @@ Je to nevyléčitelná posedlost
 
 Jak ten dub který shazuje staré listí  
 aby potajmu chystal nové
+
+</section>

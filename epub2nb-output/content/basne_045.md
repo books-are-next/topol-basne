@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Zlatý věk
 contentType: prose
 ---
 
-## Zlatý věk
+<section>
 
 Slzo kanoucí  
 Hvězdy pláč  
@@ -35,3 +35,5 @@ S vbodlými ústy
 Saješ svou mízu  
 A navždy boříš  
 Cestičku zpět
+
+</section>

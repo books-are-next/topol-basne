@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Záznam
 contentType: prose
 ---
 
-## Záznam
+<section>
 
 Jsou dosud jména  
 není věcí  
@@ -46,3 +46,5 @@ jsem spěchal do čekárny: tak neschůdné
 bylo pro mne Náměstí svobody
 
 29\. srpna 1978
+
+</section>

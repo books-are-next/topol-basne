@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Tristium
 contentType: prose
 ---
 
-## Tristium
+<section>
 
 Po vypasenosti veta  
 A setrvačnost duší: pásti  
@@ -43,3 +43,5 @@ Dech
 Jenž by rozechvíval plech
 
 Ó není —
+
+</section>

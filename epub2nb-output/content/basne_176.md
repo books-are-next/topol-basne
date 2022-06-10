@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 O čem byly ty pohádky?  
 Čtu jen fabuli a uniká  
@@ -24,3 +24,5 @@ Hnali jsme z pastvy a nic netušíce
 jako do vrat jsme vstupovali do dějin  
 kde se utínají nohy a ruce  
 a stínají hlavy doopravdy
+
+</section>

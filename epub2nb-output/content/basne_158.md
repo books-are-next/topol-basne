@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Vteřiny
 contentType: prose
 ---
 
-## Vteřiny
+<section>
 
 Jsou to vteřiny hebké šustivé  
 dosud přesýpající se zrníčka Času  
@@ -16,3 +16,5 @@ než si mne to zas nabodne
 
 Ale to se nepovídá každému  
 Jsou to mystéria úzkosti
+
+</section>

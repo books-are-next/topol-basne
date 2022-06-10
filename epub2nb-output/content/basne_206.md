@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 A tak  
 a tak jsem si  
@@ -56,3 +56,5 @@ Chtěl jsem být kněz ale bál jsem se Boha
 Být archeolog ale rozesmutňovalo mě to
 
 A kdyby jen to
+
+</section>

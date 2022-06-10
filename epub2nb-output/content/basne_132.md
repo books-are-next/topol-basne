@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Shořel jsem  
 snězte si mě  
@@ -24,3 +24,5 @@ bez vůle bez vlastní viny
 raším pučím nesetleji
 
 19\. ledna 1978
+
+</section>

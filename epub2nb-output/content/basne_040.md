@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Počátek světa
 contentType: prose
 ---
 
-## Počátek světa
+<section>
 
 Vítězslavu Nezvalovi
 
@@ -33,3 +33,5 @@ Dva srpy srostlé v ostří
 Vejce do kterého jsi složen  
 Bílé k světlu přichystané  
 Tvůj hrob
+
+</section>

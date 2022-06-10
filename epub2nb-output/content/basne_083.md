@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Srpnový průvod
 contentType: prose
 ---
 
-## Srpnový průvod
+<section>
 
 Slyš poníky z žlutých lesů ržát  
 a trilobity z fialových skal!
@@ -47,3 +47,5 @@ a kdo na hřbetě sedí,
 ten tajemství zří jak plakát,  
 jak plakat,  
 tak plakat slon jenom smí.
+
+</section>

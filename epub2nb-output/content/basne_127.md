@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Co se nechce napřímit  
 to se ohýbá  
@@ -30,3 +30,5 @@ to dosud hlídá
 Marino Cvetajevo!
 
 Vánoce 1977
+
+</section>

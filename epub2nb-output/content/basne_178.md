@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Vypadá to jako houština a je to řídké  
 pomyšlení na steré návraty a není žádný
@@ -27,3 +27,5 @@ jako Mojžíšův keř
 
 Jenom na rumištích  
 už přetrval Bůh?
+
+</section>

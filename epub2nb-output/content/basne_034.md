@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Věčnost světla
 contentType: prose
 ---
 
-## Věčnost světla
+<section>
 
 Máš svíce spánek bezpečí svou mdlobu  
 Ale do mých představ se probouzíš  
@@ -65,3 +65,5 @@ Jak pískle vypadlé z hnízda
 Svírá v kostnatých prstech
 
 Vzbuď se
+
+</section>

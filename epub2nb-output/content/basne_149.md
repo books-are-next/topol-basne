@@ -1,9 +1,9 @@
 ---
-title: ''
+title: O naději (I)
 contentType: prose
 ---
 
-## O naději (I)
+<section>
 
 Jenom to nepojmenovat  
 ale blížit se tomu přiblížit to  
@@ -43,3 +43,5 @@ byl a zas bude
 byl bude a je
 
 24\. dubna 1980
+
+</section>

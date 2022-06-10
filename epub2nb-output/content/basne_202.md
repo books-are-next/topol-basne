@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Dost jsem se už nadíval  
 i na něhu sněhu  
@@ -17,3 +17,5 @@ straky přelétají z vrby na vrbu
 poštolka je tak lehká  
 jako by se nevznášela z hladu  
 a smála se Newtonovi
+
+</section>

@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Příběh
 contentType: prose
 ---
 
-## Příběh
+<section>
 
-### Saul
+## Saul
 
 I smějí se mi kam vkročím:  
 Tak hluboko se v ženu vbořil Saul  
@@ -26,7 +26,7 @@ můj holedbavý syn pyšný vítězstvím!
 Jen o takovém se mi zdá  
 kámen z hor pro něho jsem tesal
 
-### Jonathan
+## Jonathan
 
 Hle to čím oči slepnou  
 co drhne v hlase: cizí hlas  
@@ -48,7 +48,7 @@ dnes poprvé tu bude zbrocen kámen
 ostré hrany nohy mladíčka už hryžou  
 a jemu v patách tratoliště krve
 
-### David král
+## David král
 
 Tu hvězdu jsem neupevnil sám  
 tys však zapomněl o její stálost smlouvat  
@@ -62,3 +62,5 @@ všichni izraelští jdou k tvému tělu
 jdou k tvému měsíčnímu tělu  
 vítěz jdu pro sbohem  
 ó Gelboe!
+
+</section>

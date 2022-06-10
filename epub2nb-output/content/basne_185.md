@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Byla zima a profesoři jazyka  
 odjeli do hor na dovolenou  
@@ -20,3 +20,5 @@ A jak bude po Velikonocích?
 
 Naskytnou se jim jiné vnady  
 na luzích poézie
+
+</section>

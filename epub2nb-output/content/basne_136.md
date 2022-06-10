@@ -3,7 +3,9 @@ title: ''
 contentType: prose
 ---
 
-### I
+<section>
+
+## I
 
 Báseň je obraz zcizený sám sebou:  
 Hle dávné kouzlo prosincové okno  
@@ -29,7 +31,7 @@ Ať nejsem bláto pod kopyty Pána
 V průtržích času kdo je rozmáčen  
 Je hnůj a socha včerejší v něm kydá
 
-### II
+## II
 
 Každý žhář k svému požáru se vrací  
 Jak úhoř k moři: Zas má kohouta  
@@ -43,7 +45,7 @@ Zahořet ještě jako fagule
 Pod duchnou vzduchu naposled se skrčit  
 K jehnědím skokům do přesliček dnů
 
-### III
+## III
 
 Noc procitla: Jak nadýchne se  
 Řeky překonávají tíži zemskou  
@@ -72,7 +74,7 @@ Všecka ta hrubá tělesnost a krev
 Div zázrakem se neproměňuje  
 V plamenný chochol opojivý mošt
 
-### IV
+## IV
 
 Jak skrytá nálož vybuchují  
 Voskem svítání zalité lahve jitra  
@@ -91,7 +93,7 @@ Zvučí jak perlík boží kovárny
 Vesmírný koráb v moři blankytu  
 V jásavém světle ponořený kýl
 
-### V
+## V
 
 Poledne klade neprostupnou dlaň  
 Na ústa ozvěn Nedovolá se  
@@ -105,7 +107,7 @@ Vznáší se louka s pasačkami koz
 Oblaka líně spočinula  
 Na tupých hrotech neskutečných skal
 
-### VI
+## VI
 
 Ve vlaku hajný bodře rozvalený  
 Sám poobědvá párky z ruksaku  
@@ -116,7 +118,7 @@ Den jako straka slézá závory
 Hradla a budky strážné semafory  
 Posbírá perly Mamon jediný
 
-### VII
+## VII
 
 Z podzimní trávy zvedám se jak ocún  
 Tak oznobený že by každý Svatý  
@@ -130,7 +132,7 @@ Jen myšlenkami smím se dotýkat
 Andělů jasných kteří při pádu  
 Jsou stehny v nebi hlavou na zemi
 
-### VIII
+## VIII
 
 Stín popolední který visí v olších  
 Na tenké stopce jako orchidej  
@@ -144,7 +146,7 @@ Se tomu smějí šipky vlaštovčí:
 Zdá se že v letu nebrání jim vzduch  
 A není starost co v nich dovádí
 
-### IX
+## IX
 
 Jako když dítě kápne na piják:  
 V tu ránu slepcům soumrak na oknech  
@@ -156,7 +158,7 @@ Po všem se sápe nic mu není dost
 I kdyby mělo jako tatrman  
 Kutálet sudy chrastit rolničkou
 
-### X
+## X
 
 Marnivý Čase! Vždycky z nejhezčích  
 Vždy nový svěží jinoch metuzalém  
@@ -178,7 +180,7 @@ Neboť pořád jsou odněkud ke mně upřené
 
 (Stopy v rose rozdupané jitřními jeleny)
 
-### XI
+## XI
 
 Tak je psu když ho pán doma zamkne  
 Ve světnici kde každá věc  
@@ -188,7 +190,7 @@ Jen obojkem se připomíná psu
 
 (Stopy v listí jež se převrací z líce na rub)
 
-### XII
+## XII
 
 Taky ten který ví se zapomíná  
 I kdyby sčítal po minutách dny  
@@ -222,7 +224,7 @@ Slovo se vyslovit nedá
 Odpověď nečekej žádnou  
 Máš slovo měj si máš nic
 
-### XIII
+## XIII
 
 Jsme ve smutku jak ostří ve střence  
 Snad aby se nás nikdo nechápal  
@@ -239,7 +241,7 @@ V oprátce visí zoufalcovo Ach
 Psi po setmění pokousali své pány  
 Hvězdy se rozpadají v hvězdárnách
 
-### XIV
+## XIV
 
 Uprostřed noci přistihne nás Čas  
 V příbytcích draze budovaných  
@@ -254,7 +256,7 @@ Byt bez bytí a prázdný plných chyb
 Rak ani ryba ani trilobit  
 Umělá hmota z lisovaných ploutví
 
-### XV
+## XV
 
 A pojednou se máme rozloučit  
 S tím vším s tím ště — ničím!  
@@ -271,7 +273,7 @@ Už lidské stopy zametá
 A jenom vánek okusí  
 Jak voněly ty krokusy
 
-### XVI
+## XVI
 
 Podzimem zkřehlý dýchám do svých slov  
 Pověz mi Chvíle: Kdo je oslaví?  
@@ -304,7 +306,7 @@ Před námi v dálce nedostižný chrt
 Až nás moře vyplaví na pryčnu z písku  
 Jak rozložený rosol nebo sliz
 
-### XVII
+## XVII
 
 Má matka usne: V milosrdném snu  
 Můj otec náhle zvedne se jak prut  
@@ -332,7 +334,7 @@ Zbrkle se vyrojí Tu přehlídku
 Předvedly mockrát ale na oslavu  
 teď letí znovu už zvedají Matku — —
 
-### XVIII
+## XVIII
 
 Čase můj purkrabí a starosto  
 Tisíce věcí nejsem s to  
@@ -349,7 +351,7 @@ A jako jinoch neví co je závrať
 A jako stařec k hrobu nachýlený  
 Div nepřepadne ještě mrká k nebi
 
-### XIX
+## XIX
 
 Ty který vidíš Počátek i Konec  
 Dochvilný kate spáso loudavá  
@@ -383,3 +385,5 @@ Jeviště Časem podminované
 Kejklíře slova smetáš salvou smíchu
 
 Torso, přelom 70. a 80. let
+
+</section>

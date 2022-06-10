@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Hlásí se to jako únava  
 je to podhoubí smutku:  
@@ -25,3 +25,5 @@ A přece nevím jaký rošt
 v popelu znovu rozdmýchává jiskru  
 Úsvit je blaho probouzím se  
 abych to přežil
+
+</section>

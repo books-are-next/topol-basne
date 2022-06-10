@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Zjevit se přes veškeré maškarády  
 aspoň nakonec jako člověk  
@@ -17,3 +17,5 @@ Může to být napohled zmařený život
 ale ke konci otázka anebo slzy
 
 A něco se stalo
+
+</section>

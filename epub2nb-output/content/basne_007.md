@@ -1,13 +1,13 @@
 ---
-title: ''
+title: Venkovské bály
 contentType: prose
 ---
 
-## Venkovské bály
+<section>
 
 Marii
 
-### I
+## I
 
 Voják tančící s dvěma oharky  
 Palec utopený v opasku  
@@ -35,7 +35,7 @@ Muž na řetězu
 Muž na svobodě  
 Voják tančící s dvěma oharky
 
-### II
+## II
 
 Něco selského v barvě zlatých hrušní  
 Výskot který ještě nedostoupil  
@@ -72,7 +72,7 @@ Jeho úprk
 Jeho loudavost  
 Nebezpečí těch gest
 
-### III
+## III
 
 Navzdory k tobě tančím  
 Z temného loubí Neboť venkovská noc  
@@ -100,7 +100,7 @@ Z bězhvězdna vzpomínek
 Se třpytí poslední  
 A hasne
 
-### IV
+## IV
 
 Pohleďte na tu bláznivou  
 Pohleďte na tu nehezkou  
@@ -144,7 +144,7 @@ Neboť zvony před bláznem ulétají
 Neboť zvony před dívkou ulétají  
 Když začne potkávat své lásky
 
-### V
+## V
 
 Den krade se už za nocí  
 Zvěd prchá z prohrávané bitvy  
@@ -164,3 +164,5 @@ Plačící pod ebenem matčiných vlasů
 Svět září maskami a pod maskou se tmí
 
 Poříčí
+
+</section>

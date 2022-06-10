@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Vánoce 77
 contentType: prose
 ---
 
-## Vánoce 77
+<section>
 
 Kalné stoky růžových jiter  
 s dozvuky andělských citer  
@@ -24,3 +24,5 @@ polední srnku v lese složí
 v tom lese odsouzeném k zániku  
 kde není orel ani liška:  
 Vánoce bez Ježíška!
+
+</section>

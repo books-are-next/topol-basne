@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Záznamy
 contentType: prose
 ---
 
-## Záznamy
+<section>
 
 A tehdy  
 kdy se už sobě nepodobáme  
@@ -106,3 +106,5 @@ a jeden skoro zapomenutý verš:
 Těm voní růže kdo k ní přivoní
 
 28\. prosince 1967
+
+</section>

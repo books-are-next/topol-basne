@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Ženichovo lože
 contentType: prose
 ---
 
-## Ženichovo lože
+<section>
 
 Je obzor teskná páska smuteční  
 Psi okusují záhon pivoněk  
@@ -17,3 +17,5 @@ Spícího nevaruje nikdo
 Když z důlku po své hlavě sirotčí  
 Se zvedne škvírou ve dveřích  
 Se na něj upřou cizí zorničky
+
+</section>

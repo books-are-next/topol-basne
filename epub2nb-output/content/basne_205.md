@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 To jsme se milovali  
 Záminkou byl klavír Říkali mi  
@@ -40,3 +40,5 @@ zarmoucený
 ale když jsem přečetl Karla Hynka Máchu  
 napadlo mě že si to nesmím ani dovolit  
 abych odteďka už měl šťastnou lásku
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: O naději (II)
 contentType: prose
 ---
 
-## O naději (II)
+<section>
 
 Tak neuvěřitelně pomalý tak vleklý  
              ani-už-ne-pohyb  
@@ -24,3 +24,5 @@ sotva uchopitelná
 
 I když se to nezdá kdo ví  
 zda nejsme z ní živi
+
+</section>

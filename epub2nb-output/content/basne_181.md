@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Pomalu i ty jsi už kabát posešívaný  
 švadlenami proflámovaných nocí  
@@ -16,3 +16,5 @@ může uchytit v tak spálené zemi?
 Sestřičko v domě beznaděje chorých  
 s jediným odpočívadlem spánku  
 v komnatě doživotní hluchoty!
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Síla stálosti
 contentType: prose
 ---
 
-## Síla stálosti
+<section>
 
 Doposud jsem.  
 Vzduch se mnou soucit má,  
@@ -49,3 +49,5 @@ stálý krouživý pohyb jako v tanci!
 
 Tonoucí básni, už se stébla chytáš:  
 _Slib vydal skřek a žbluňkl do tmy._
+
+</section>

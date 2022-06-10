@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Kde jednou smutný  
 ničím si jistý  
@@ -19,3 +19,5 @@ jenom co by se usmál:
 tam jsou pohoří radosti  
 a zde údolí hoře:  
 říkat nemusíš nic!
+
+</section>

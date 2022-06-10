@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Úplňky
 contentType: prose
 ---
 
-## Úplňky
+<section>
 
 A posléze: Co je po úplnosti?  
 Bylo dítě  
@@ -48,3 +48,5 @@ vešli bysme se do něho
 hned by všecko šlo líp
 
 Co je po úplnosti?
+
+</section>

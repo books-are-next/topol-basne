@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Pes a luna
 contentType: prose
 ---
 
-## Pes a luna
+<section>
 
-### I
+## I
 
 Blatouší vonné tajemství měsíce  
 Zlatý sýr taje v temné misce  
@@ -22,7 +22,7 @@ Je plný žízně z hladu svého psa
 Leze do větví stromů aby utrh  
 Jablko poznání
 
-### II
+## II
 
 Leží bez hnutí je srp nabroušený  
 Růžové plátky nesou rosy hlen  
@@ -38,7 +38,7 @@ S krátery úzkými jak pánve panen
 
 To je luna psích snů
 
-### III
+## III
 
 Den bílý moučný mléko z hvězd  
 Úsměv muže v měsíci se tmí  
@@ -51,7 +51,7 @@ Tesknota hvězdných spálenišť
 Pod nimiž doutná mře a doutná  
 Den bílý moučný z mléka hvězd
 
-### IV
+## IV
 
 L _loukoť louč ladička los lup_  
 U _úběl úhoř utoužený úúú_  
@@ -78,3 +78,5 @@ Tětiva svalů vypustila stín
 Pán plný světla v stínu svého psa  
 Svírá jablko poznání  
 A snídá
+
+</section>

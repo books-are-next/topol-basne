@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Bolí to jako neuchopit  
 ležící krásné tělo  
@@ -24,3 +24,5 @@ Překotná závěj spanilého jsoucna
 z bradavek prsů prýštící  
 sféra dosud božského ohně  
 v rozrytém brambořišti
+
+</section>

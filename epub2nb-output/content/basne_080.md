@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Altový doprovod
 contentType: prose
 ---
 
-## Altový doprovod
+<section>
 
 Tak se na cestu chystám  
 Flétna z lesa když lká
@@ -30,3 +30,5 @@ Nezralé jablko zvadlé
 Marné jak zpozdilý pláč  
 Ve stínu holubích křídel  
 Flétna z lesa když lká
+
+</section>

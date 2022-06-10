@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Když holedbavý smutek všecko obrací nazmar,  
 komu říci: Dobrý den, vítej, posaď se,  
@@ -26,3 +26,5 @@ tolik ponoukán,
 abych zabil někoho místo sebe.
 
 21\. října 1986
+
+</section>

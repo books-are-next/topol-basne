@@ -1,13 +1,13 @@
 ---
-title: ''
+title: Hlava
 contentType: prose
 ---
 
-## Hlava
+<section>
 
 Mikuláši Medkovi
 
-### I
+## I
 
 Kuří oko jitřenky  
 Okr v modři  
@@ -37,7 +37,7 @@ Byla přistižena jak doufá
 Kuří oko jitřenky  
 Jsem bdící
 
-### II
+## II
 
 Co zamýšlím oč přicházím
 
@@ -62,3 +62,5 @@ Hra stínů prchlá zář
 Varující a zvoucí
 
 Jsem
+
+</section>

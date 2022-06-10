@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Legenda
 contentType: prose
 ---
 
-## Legenda
+<section>
 
 Karlu Jaromíru Erbenovi
 
@@ -229,3 +229,5 @@ Panna ne víc než loutka
 Z rukou mu vypadne na zem
 
 1957
+
+</section>

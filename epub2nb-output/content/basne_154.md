@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Několikátá
 contentType: prose
 ---
 
-## Několikátá
+<section>
 
 Panu Kostohryzovi
 
@@ -42,3 +42,5 @@ bez ohledu na riziko možné zisky a ztráty
 přece jen upevňují ctnost — —
 
 Prosinec 1982
+
+</section>

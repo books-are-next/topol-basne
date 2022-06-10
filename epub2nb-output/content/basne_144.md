@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Cesta zimou
 contentType: prose
 ---
 
-## Cesta zimou
+<section>
 
 Není koroptve abych se za ní neohlédl  
 není stromu abych se u něho nezastavil  
@@ -27,3 +27,5 @@ už nakloněnou k hladině zmaru:
 co ji nutí se udržet v břehu?
 
 19\. ledna 1980
+
+</section>

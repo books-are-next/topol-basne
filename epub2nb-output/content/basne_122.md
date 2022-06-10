@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Nebo mi pověz  
 když jinak to nejde  
@@ -17,3 +17,5 @@ Přesto říkají: Dobré jitro
 i svým vrahům
 
 Naučíme se to od nich?
+
+</section>

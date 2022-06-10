@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Cesta pouští
 contentType: prose
 ---
 
-## Cesta pouští
+<section>
 
 Radostné anděly plakat zříme  
 Vrhají se o hladu v bělmo ústřic  
@@ -19,3 +19,5 @@ Svlékají azurné pláště a nazí
 Andělé s jásotem lámou mříže  
 Z karavan jdoucích mimo bíle páří  
 Jsme blíže
+
+</section>

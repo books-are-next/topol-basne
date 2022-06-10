@@ -1,9 +1,9 @@
 ---
-title: ''
+title: U jednoho stolu
 contentType: prose
 ---
 
-## U jednoho stolu
+<section>
 
 Ještě že jsou lidé dvojdomí:  
 z jejích očí se tmí  
@@ -39,3 +39,5 @@ střeží venkovsky to tajemství
 jako pták na náhrobku egyptského krále  
 jsou hieroglyfem rozletu  
 a v dohledu je otcův tvrdý stín
+
+</section>

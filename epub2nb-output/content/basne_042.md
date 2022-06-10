@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Tíže zemská
 contentType: prose
 ---
 
-## Tíže zemská
+<section>
 
 Kanou medové plástve  
 Rty se nebráni sladkým slovům  
@@ -46,3 +46,5 @@ Pouhá obloha jež nezná závrať
 
 Slovo  
 Kámen hozený a vždy se zřítí
+
+</section>

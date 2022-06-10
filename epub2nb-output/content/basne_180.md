@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Slepenec úzkosti bych leptal  
 alespoň chatrnými verši  
@@ -30,3 +30,5 @@ končila v neschůdné rokli:
 a pod rozložitou sosnou  
 obydlené jezevčí doupě  
 jak díra po mamutím klu!)
+
+</section>

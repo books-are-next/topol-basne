@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Proseděl jsem večer s těmi lidmi  
 svěřovali se mi a ten divný  
@@ -24,3 +24,5 @@ Nebyla ještě televize drali peří
 taky oškubával peříčka s pokleslou hlavou  
 a poslouchal klevetivé venkovské ženy  
 nejpokornější pokora sám osud všivějící země
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Láska
 contentType: prose
 ---
 
-## Láska
+<section>
 
 Pak skřítek řekl: A co ty?
 
@@ -22,3 +22,5 @@ a v rozvalinách v suti paláce
 bojící se manželských válend  
 toužící dohledat se  
 vší sladkosti a trýzně
+
+</section>

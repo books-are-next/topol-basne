@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Studna
 contentType: prose
 ---
 
-## Studna
+<section>
 
 Nejsem smutný  
 zhanobil bych veškerou radost kterou mám  
@@ -22,3 +22,5 @@ tu snahu ale utěšuju se
 že jsem potají hloubil studnu  
 v pozemku skoro neživota  
 a sotva do ní nahlédl
+
+</section>

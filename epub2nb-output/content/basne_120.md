@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Už jsme jednou zažili jaro  
 a blažené dny kdy jsme chodili nazí  
@@ -29,3 +29,5 @@ Bavilo nás i myslet
 neboť myšlením jsme vynalézali  
 jak se opevnit a nenapadlo nás že jednou  
 z nezbytí k hradbám postavíme stráže
+
+</section>

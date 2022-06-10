@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Veliká báseň
 contentType: prose
 ---
 
-## Veliká báseň
+<section>
 
 Když jsem usínal  
 Byl jsi podobný stromu
@@ -25,3 +25,5 @@ Když jsem se probouzel
 Byl jsi uschován v stromu  
 Rozťatý strom  
 Téma k veliké básni
+
+</section>

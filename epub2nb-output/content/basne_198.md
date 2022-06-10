@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Mám odstonáno  
 už zase odnikud nikam zdraví  
@@ -21,3 +21,5 @@ příznaky uzdravení?
 Sedět zpříma stát přihrbený  
 mezi minulostí dosud nezcizitelnou  
 a budoucností dosud neosvojenou
+
+</section>

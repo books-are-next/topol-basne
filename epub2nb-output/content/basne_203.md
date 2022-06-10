@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Že není bytí kde je hniloba?  
 To se tak papouškuje  
@@ -23,3 +23,5 @@ a já čekám zda-li
 z nich nezaprší?
 
 V hrdle své země plném žízně
+
+</section>

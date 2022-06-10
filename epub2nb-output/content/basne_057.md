@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Koktejly
 contentType: prose
 ---
 
-## Koktejly
+<section>
 
 Stavení houstnou  
 jen tma tu cestu zná  
@@ -31,3 +31,5 @@ se bezostyšně svléká:
 Pravý šampaňský vzmach
 
 Jalta, 1960
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Kdo jsem
 contentType: prose
 ---
 
-## Kdo jsem
+<section>
 
 Stavím tvář. Sám někdo jiný  
 snuji podobu. Ze stínu tělo strojím.  
@@ -22,3 +22,5 @@ I láska. Naposledy v smrti
 bude jen slepou bábou znamenaný!
 
 A sotva prohlédne ten klam.
+
+</section>

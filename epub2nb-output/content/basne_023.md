@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Hra o
 contentType: prose
 ---
 
-## Hra o
+<section>
 
 Nevědouce zda miluji tuto zemi —  
 Avšak ostruhy jejich jar  
@@ -18,3 +18,5 @@ Prvního setkání a prvních staň se staň
 Čas klade ústa k jímce ran  
 Navzdory klíčí v srdci hra  
 Kterou svět rozprodal
+
+</section>

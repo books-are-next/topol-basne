@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Otázky
 contentType: prose
 ---
 
-## Otázky
+<section>
 
 Mohl Všemohoucí jediným Slovem  
 zničit co stvořil jako hrnčíř  
@@ -38,3 +38,5 @@ Zlo převládá ale nenarodil jsem se
 abych se tomu vyhýbal:
 
 Abych to změnil
+
+</section>

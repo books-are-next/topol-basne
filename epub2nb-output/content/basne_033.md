@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Ave
 contentType: prose
 ---
 
-## Ave
+<section>
 
 Na sta pórů v tvé kůži  
 Ale ty celistvější  
@@ -21,3 +21,5 @@ O břitký vzduch až záříš
 Samojediný nesu tvou zornici v dlani  
 Spálen osmahlou krásou v spěchu  
 A vratkou nohou dotýkám se zemí
+
+</section>

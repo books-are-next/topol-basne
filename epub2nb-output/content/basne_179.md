@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 A bez ohledu na divoké rozvody na zemi  
 hvězdy se snoubí  
@@ -51,3 +51,5 @@ Může to být dým
 z dávno vyhořelé delfské věštírny  
 který barbaři nevědouce  
 znovu roznítili
+
+</section>

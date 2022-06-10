@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Modlitba
 contentType: prose
 ---
 
-## Modlitba
+<section>
 
 Tělo v nachu touhy  
 Tělo v úbělu spánku  
@@ -23,3 +23,5 @@ Stud pokory
 A smrt
 
 A vstaneš z mrtvých
+
+</section>

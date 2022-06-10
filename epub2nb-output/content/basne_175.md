@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Spánek je milost  
 kdo ho nemá je bez Milosti  
@@ -47,3 +47,5 @@ tlukoucí srdce v mrtvé krajině
 I kdyby to nebylo předpověděno:
 
 Zmrtvýchvstání
+
+</section>

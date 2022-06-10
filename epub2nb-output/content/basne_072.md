@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Jiná koleda hladu
 contentType: prose
 ---
 
-## Jiná koleda hladu
+<section>
 
 Jdeš v sandálech mi vstříc  
 Od sousedů vyhnaná žabka  
@@ -24,3 +24,5 @@ Lásky poslední podruh
 Chystám routu a majorán  
 V zlaté stlaní chléva tě zvu  
 K železným jesličkám
+
+</section>

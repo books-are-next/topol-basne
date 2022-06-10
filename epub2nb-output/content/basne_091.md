@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Sádrové sochy
 contentType: prose
 ---
 
-## Sádrové sochy
+<section>
 
 Tahle báseň skautskými koleny klečí  
 (to o sobě příliš dobře ví):  
@@ -17,3 +17,5 @@ se čepejří, zla houfně hynou
 a dobré pomlázkové slunce nastrčí  
 jak hrbatý svou kost k té slávě  
 (však nebe močí na sádrové sochy).
+
+</section>

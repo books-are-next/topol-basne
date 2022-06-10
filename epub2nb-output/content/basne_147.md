@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Padesát
 contentType: prose
 ---
 
-## Padesát
+<section>
 
 Hodiny touhy s vteřinami tlení  
 pod paravánem věčnosti  
@@ -28,3 +28,5 @@ když nepokojná hlava hledá ospravedlnění
 takového už napůl života a napůl smrti
 
 21\. dubna 1980
+
+</section>

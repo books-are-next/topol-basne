@@ -1,9 +1,9 @@
 ---
-title: ''
+title: O depresi
 contentType: prose
 ---
 
-## O depresi
+<section>
 
 Od rána do mne není nic  
 Co se pokouší mě vystrnadit  
@@ -38,3 +38,5 @@ ovečky z Arktidy se přišly pást
 na naše luhy
 
 23\. dubna 1980
+
+</section>

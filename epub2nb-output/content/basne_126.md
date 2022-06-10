@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Poesie
 contentType: prose
 ---
 
-## Poesie
+<section>
 
 Janu Hladíkovi
 
@@ -49,3 +49,5 @@ nadlehčit příliš těžký svět
 vykropit jámu pro nebožtíka
 
 1977
+
+</section>
