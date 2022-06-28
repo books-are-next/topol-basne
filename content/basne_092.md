@@ -1,6 +1,6 @@
 ---
 title: Síla stálosti
-contentType: prose
+contentType: poetry
 ---
 
 <section>

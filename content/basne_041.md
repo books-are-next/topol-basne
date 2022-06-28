@@ -1,6 +1,6 @@
 ---
 title: Denní jízda
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Requiescat
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -92,6 +92,6 @@ dobrého ani zlého.
 Být v koncích  
 je být na počátku všeho.
 
-1960
+_1960_
 
 </section>

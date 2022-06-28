@@ -1,11 +1,11 @@
 ---
 title: Počátek světa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Vítězslavu Nezvalovi
+_Vítězslavu Nezvalovi_
 
 Záře a purpur a šarlat a nach
 

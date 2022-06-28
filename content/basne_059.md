@@ -1,6 +1,6 @@
 ---
 title: Jsem Herodes kajícný
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -43,6 +43,6 @@ Jako princ dánský říkám potichu:
 Všimněte si těch stromů  
 nevypadají jako boleni?
 
-5\. března 1962
+_5\. března 1962_
 
 </section>

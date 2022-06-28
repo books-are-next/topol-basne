@@ -1,6 +1,6 @@
 ---
 title: Záznamy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -105,6 +105,6 @@ byli nebyli jsme nejsme
 a jeden skoro zapomenutý verš:  
 Těm voní růže kdo k ní přivoní
 
-28\. prosince 1967
+_28\. prosince 1967_
 
 </section>

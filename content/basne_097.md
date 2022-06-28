@@ -1,6 +1,6 @@
 ---
 title: Úklady
-contentType: prose
+contentType: poetry
 ---
 
 <section>

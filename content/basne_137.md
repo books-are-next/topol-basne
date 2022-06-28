@@ -1,6 +1,6 @@
 ---
 title: VII
-contentType: prose
+contentType: poetry
 ---
 
 

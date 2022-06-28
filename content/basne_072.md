@@ -1,6 +1,6 @@
 ---
 title: Jiná koleda hladu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

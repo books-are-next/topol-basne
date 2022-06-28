@@ -1,6 +1,6 @@
 ---
 title: Příběh
-contentType: prose
+contentType: poetry
 ---
 
 <section>

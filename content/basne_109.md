@@ -1,6 +1,6 @@
 ---
 title: Vyznání
-contentType: prose
+contentType: poetry
 ---
 
 <section>

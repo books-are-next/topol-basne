@@ -1,6 +1,6 @@
 ---
 title: Studna
-contentType: prose
+contentType: poetry
 ---
 
 <section>

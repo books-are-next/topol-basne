@@ -1,6 +1,6 @@
 ---
 title: Hlasy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

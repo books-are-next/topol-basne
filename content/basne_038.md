@@ -1,6 +1,6 @@
 ---
 title: Růžový pokoj
-contentType: prose
+contentType: poetry
 ---
 
 <section>

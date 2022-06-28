@@ -1,6 +1,6 @@
 ---
 title: Přízemnost
-contentType: prose
+contentType: poetry
 ---
 
 <section>

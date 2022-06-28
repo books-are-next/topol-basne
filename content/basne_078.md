@@ -1,6 +1,6 @@
 ---
 title: Romance černomořská
-contentType: prose
+contentType: poetry
 ---
 
 <section>

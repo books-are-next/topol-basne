@@ -1,6 +1,6 @@
 ---
 title: Les préludes
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -24,6 +24,6 @@ Kdo mne napjal
 Který vítr  
 Se opírá do mé eolky?
 
-Jalta, 1960
+_Jalta, 1960_
 
 </section>

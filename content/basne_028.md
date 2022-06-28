@@ -1,6 +1,6 @@
 ---
 title: Jsoucí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

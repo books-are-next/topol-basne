@@ -1,11 +1,11 @@
 ---
 title: Poesie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Janu Hladíkovi
+_Janu Hladíkovi_
 
 A liboval jsem si  
 v neřesti básní hřešících  
@@ -48,6 +48,6 @@ povýšit pokleslého člověka
 nadlehčit příliš těžký svět  
 vykropit jámu pro nebožtíka
 
-1977
+_1977_
 
 </section>

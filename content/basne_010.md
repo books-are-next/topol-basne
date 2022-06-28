@@ -1,6 +1,6 @@
 ---
 title: Tajnosti
-contentType: prose
+contentType: poetry
 ---
 
 <section>

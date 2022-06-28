@@ -1,6 +1,6 @@
 ---
 title: Kampa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -28,6 +28,6 @@ zapomenul posunout snímek ve fotoaparátu
 a byla z toho dvojexpozice:  
 já v koruně dubu!
 
-19\. ledna 1978
+_19\. ledna 1978_
 
 </section>

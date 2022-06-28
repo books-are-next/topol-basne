@@ -1,6 +1,6 @@
 ---
 title: Vábnička
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -39,6 +39,6 @@ co chtějí učiň rád,
 v sebe se obracej,  
 ach otče!
 
-Květen 1959
+_Květen 1959_
 
 </section>

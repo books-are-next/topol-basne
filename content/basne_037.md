@@ -1,6 +1,6 @@
 ---
 title: Torso
-contentType: prose
+contentType: poetry
 ---
 
 <section>

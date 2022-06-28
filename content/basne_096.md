@@ -1,6 +1,6 @@
 ---
 title: Horečka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

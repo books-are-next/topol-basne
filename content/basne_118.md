@@ -1,6 +1,6 @@
 ---
 title: Obětina
-contentType: prose
+contentType: poetry
 ---
 
 <section>

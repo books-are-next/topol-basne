@@ -1,6 +1,6 @@
 ---
 title: Příchozí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

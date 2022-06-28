@@ -1,6 +1,6 @@
 ---
 title: Před bouří
-contentType: prose
+contentType: poetry
 ---
 
 <section>

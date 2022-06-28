@@ -1,11 +1,11 @@
 ---
 title: Venkovské bály
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Marii
+_Marii_
 
 ## I
 
@@ -163,6 +163,6 @@ Plačící pod ebenem matčiných vlasů
 
 Svět září maskami a pod maskou se tmí
 
-Poříčí
+_Poříčí_
 
 </section>

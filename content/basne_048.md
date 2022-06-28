@@ -1,11 +1,11 @@
 ---
 title: Stesk
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Jiřímu Kuběnovi — Český Šternberk
+_Jiřímu Kuběnovi — Český Šternberk_
 
 Lasička stesku stéblem stoupá  
 a travou černobýl,  

@@ -1,6 +1,6 @@
 ---
 title: Ave
-contentType: prose
+contentType: poetry
 ---
 
 <section>

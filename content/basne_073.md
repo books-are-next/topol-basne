@@ -1,6 +1,6 @@
 ---
 title: Jsou povětří
-contentType: prose
+contentType: poetry
 ---
 
 <section>

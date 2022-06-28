@@ -1,6 +1,6 @@
 ---
 title: Nebesa
-contentType: prose
+contentType: poetry
 ---
 
 <section>

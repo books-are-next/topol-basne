@@ -1,6 +1,6 @@
 ---
 title: Pletení houžve
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: V
-contentType: prose
+contentType: poetry
 ---
 
 

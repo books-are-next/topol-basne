@@ -1,6 +1,6 @@
 ---
 title: Pastviny těla
-contentType: prose
+contentType: poetry
 ---
 
 <section>

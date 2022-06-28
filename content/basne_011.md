@@ -1,6 +1,6 @@
 ---
 title: Půl noci
-contentType: prose
+contentType: poetry
 ---
 
 <section>

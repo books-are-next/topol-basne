@@ -1,6 +1,6 @@
 ---
 title: Srpnový průvod
-contentType: prose
+contentType: poetry
 ---
 
 <section>

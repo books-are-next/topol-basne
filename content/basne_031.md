@@ -1,6 +1,6 @@
 ---
 title: Dovršení
-contentType: prose
+contentType: poetry
 ---
 
 <section>

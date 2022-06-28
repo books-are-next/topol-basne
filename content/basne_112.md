@@ -1,6 +1,6 @@
 ---
 title: Vytrvalý déšť
-contentType: prose
+contentType: poetry
 ---
 
 <section>

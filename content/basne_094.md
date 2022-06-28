@@ -1,6 +1,6 @@
 ---
 title: Doručitelé věnců
-contentType: prose
+contentType: poetry
 ---
 
 <section>

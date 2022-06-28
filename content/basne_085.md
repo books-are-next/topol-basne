@@ -1,6 +1,6 @@
 ---
 title: Déšť padá na rány
-contentType: prose
+contentType: poetry
 ---
 
 <section>

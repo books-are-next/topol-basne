@@ -1,6 +1,6 @@
 ---
 title: Pohřbívání stromů
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Souchotiny
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -32,6 +32,6 @@ Od všeho vržen do veliké dálky
 jen pomyšlením se smím dotýkat  
 oblaků jasných malin nezralých
 
-Dobříš
+_Dobříš_
 
 </section>

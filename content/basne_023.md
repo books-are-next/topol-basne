@@ -1,6 +1,6 @@
 ---
 title: Hra o
-contentType: prose
+contentType: poetry
 ---
 
 <section>

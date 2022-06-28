@@ -1,6 +1,6 @@
 ---
 title: Věčnost světla
-contentType: prose
+contentType: poetry
 ---
 
 <section>

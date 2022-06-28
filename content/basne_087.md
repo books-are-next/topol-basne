@@ -1,6 +1,6 @@
 ---
 title: Řemeslo
-contentType: prose
+contentType: poetry
 ---
 
 <section>

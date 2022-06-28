@@ -1,6 +1,6 @@
 ---
 title: Výpad
-contentType: prose
+contentType: poetry
 ---
 
 <section>

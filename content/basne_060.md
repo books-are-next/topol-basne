@@ -1,6 +1,6 @@
 ---
 title: Pouhá cesta
-contentType: prose
+contentType: poetry
 ---
 
 <section>

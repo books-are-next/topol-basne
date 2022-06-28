@@ -1,6 +1,6 @@
 ---
 title: Láska
-contentType: prose
+contentType: poetry
 ---
 
 <section>

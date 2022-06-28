@@ -1,6 +1,6 @@
 ---
 title: Sádrové sochy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

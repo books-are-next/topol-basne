@@ -1,6 +1,6 @@
 ---
 title: Zavržení
-contentType: prose
+contentType: poetry
 ---
 
 <section>

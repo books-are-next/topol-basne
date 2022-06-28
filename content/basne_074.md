@@ -1,6 +1,6 @@
 ---
 title: Pak žena
-contentType: prose
+contentType: poetry
 ---
 
 <section>

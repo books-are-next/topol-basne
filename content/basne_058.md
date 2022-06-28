@@ -1,6 +1,6 @@
 ---
 title: Bázeň mé básně
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -32,6 +32,6 @@ bratr Úchvat mě pojme,
 aby, co zakázáno zde bylo,  
 mi vrátil.
 
-1960
+_1960_
 
 </section>

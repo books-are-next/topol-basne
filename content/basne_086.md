@@ -1,6 +1,6 @@
 ---
 title: U jednoho stolu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

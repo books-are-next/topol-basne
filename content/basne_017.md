@@ -1,6 +1,6 @@
 ---
 title: Tristium
-contentType: prose
+contentType: poetry
 ---
 
 <section>

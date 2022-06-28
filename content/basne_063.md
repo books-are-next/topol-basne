@@ -1,6 +1,6 @@
 ---
 title: Škaredá středa
-contentType: prose
+contentType: poetry
 ---
 
 <section>

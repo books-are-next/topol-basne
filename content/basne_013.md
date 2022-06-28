@@ -1,6 +1,6 @@
 ---
 title: Triumf
-contentType: prose
+contentType: poetry
 ---
 
 <section>

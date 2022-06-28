@@ -1,6 +1,6 @@
 ---
 title: Navštívení
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Nespavost
-contentType: prose
+contentType: poetry
 ---
 
 <section>

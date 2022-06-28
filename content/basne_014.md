@@ -1,6 +1,6 @@
 ---
 title: Tkvění
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Ženichovo lože
-contentType: prose
+contentType: poetry
 ---
 
 <section>

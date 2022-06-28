@@ -1,6 +1,6 @@
 ---
 title: Divný den
-contentType: prose
+contentType: poetry
 ---
 
 <section>

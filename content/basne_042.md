@@ -1,6 +1,6 @@
 ---
 title: Tíže zemská
-contentType: prose
+contentType: poetry
 ---
 
 <section>

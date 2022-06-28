@@ -1,6 +1,6 @@
 ---
 title: Jmelí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

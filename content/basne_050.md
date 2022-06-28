@@ -1,6 +1,6 @@
 ---
 title: Mumraj
-contentType: prose
+contentType: poetry
 ---
 
 <section>

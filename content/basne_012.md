@@ -1,6 +1,6 @@
 ---
 title: Pes a luna
-contentType: prose
+contentType: poetry
 ---
 
 <section>
