@@ -224,7 +224,7 @@ readingOrder:
   - basne_212.html
   - basne_213.html
   - basne_214.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
