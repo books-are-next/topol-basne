@@ -1,6 +1,6 @@
 ---
 title: Příliv
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -24,6 +24,6 @@ pohroužen v náruč svoji
 
 A sebou sám
 
-Jalta, 1960
+_Jalta, 1960_
 
 </section>

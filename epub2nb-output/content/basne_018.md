@@ -1,6 +1,6 @@
 ---
 title: Andělská jízda
-contentType: prose
+contentType: poetry
 ---
 
 <section>

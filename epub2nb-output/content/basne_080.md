@@ -1,6 +1,6 @@
 ---
 title: Altový doprovod
-contentType: prose
+contentType: poetry
 ---
 
 <section>

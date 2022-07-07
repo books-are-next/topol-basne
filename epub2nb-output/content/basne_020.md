@@ -1,6 +1,6 @@
 ---
 title: Vpád
-contentType: prose
+contentType: poetry
 ---
 
 <section>

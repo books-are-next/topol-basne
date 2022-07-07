@@ -1,6 +1,6 @@
 ---
 title: Proměny
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -113,6 +113,6 @@ Dunění střelby řvoucí vzduch úpí
 
 Naděj je pták který vzlétá
 
-1957
+_1957_
 
 </section>

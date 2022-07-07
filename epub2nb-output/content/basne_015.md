@@ -1,11 +1,11 @@
 ---
 title: Legenda
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Karlu Jaromíru Erbenovi
+_Karlu Jaromíru Erbenovi_
 
 Nebesklon napovídal brzkou noc  
 Kapří měsíc oddychuje v sítí  
@@ -228,6 +228,6 @@ Poslední představou zmučen
 Panna ne víc než loutka  
 Z rukou mu vypadne na zem
 
-1957
+_1957_
 
 </section>

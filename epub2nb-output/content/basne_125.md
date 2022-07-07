@@ -1,14 +1,14 @@
 ---
 title: Ach —!
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Anastázovi Opaskovi
+_Anastázovi Opaskovi_
 
 Ach — !  
-              tedy povzdech  
+             tedy povzdech  
 vymýcený z života  
 Klade do uvozovek mou báseň  
 v ní se mihotá!
@@ -38,8 +38,8 @@ pod Velkým vozem jemuž v Římě říkají
 zapomenout na zlo když zapomínám pro zlo  
 udělat samozřejmé věci  
 ach jiné  
-               jiné  
-                       dobré věci!
+             jiné  
+             dobré věci!
 
 Zapomínám vylézt na střechu mého domu  
 zapomínám že je Zelený čtvrtek  
@@ -67,6 +67,6 @@ padají na dno propasti kde tlejí
 ídeje v hnoji humusu  
 a všeliké mrvy…
 
-17\. září 1975
+_17\. září 1975_
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: Koleda hladu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Cesta zimou
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -26,6 +26,6 @@ Až potkám vrbu podemletou
 už nakloněnou k hladině zmaru:  
 co ji nutí se udržet v břehu?
 
-19\. ledna 1980
+_19\. ledna 1980_
 
 </section>

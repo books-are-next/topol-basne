@@ -1,6 +1,6 @@
 ---
 title: Čas lásky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

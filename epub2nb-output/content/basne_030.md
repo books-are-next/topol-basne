@@ -1,6 +1,6 @@
 ---
 title: Promlčování
-contentType: prose
+contentType: poetry
 ---
 
 <section>

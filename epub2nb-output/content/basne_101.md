@@ -1,6 +1,6 @@
 ---
 title: Poločas
-contentType: prose
+contentType: poetry
 ---
 
 <section>

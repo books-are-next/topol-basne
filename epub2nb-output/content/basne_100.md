@@ -1,6 +1,6 @@
 ---
 title: Pastvu má podzim
-contentType: prose
+contentType: poetry
 ---
 
 <section>

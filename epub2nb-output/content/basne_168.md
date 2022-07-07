@@ -1,6 +1,6 @@
 ---
 title: Před Velikonocemi
-contentType: prose
+contentType: poetry
 ---
 
 <section>

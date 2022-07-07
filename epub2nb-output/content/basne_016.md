@@ -1,6 +1,6 @@
 ---
 title: Dospělost
-contentType: prose
+contentType: poetry
 ---
 
 <section>

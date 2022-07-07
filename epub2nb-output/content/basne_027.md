@@ -1,6 +1,6 @@
 ---
 title: Krutost
-contentType: prose
+contentType: poetry
 ---
 
 <section>

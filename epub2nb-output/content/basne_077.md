@@ -1,6 +1,6 @@
 ---
 title: Stvoření
-contentType: prose
+contentType: poetry
 ---
 
 <section>

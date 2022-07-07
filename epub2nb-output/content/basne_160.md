@@ -1,6 +1,6 @@
 ---
 title: Florencie
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Modlitba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

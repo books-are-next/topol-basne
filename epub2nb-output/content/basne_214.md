@@ -1,6 +1,6 @@
 ---
 title: Prosba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

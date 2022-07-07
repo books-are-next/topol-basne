@@ -1,6 +1,6 @@
 ---
 title: Otázky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

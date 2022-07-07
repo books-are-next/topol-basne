@@ -1,6 +1,6 @@
 ---
 title: '* * *'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -23,6 +23,6 @@ zalili petroleji
 bez vůle bez vlastní viny  
 raším pučím nesetleji
 
-19\. ledna 1978
+_19\. ledna 1978_
 
 </section>

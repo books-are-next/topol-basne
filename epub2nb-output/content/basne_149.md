@@ -1,6 +1,6 @@
 ---
 title: O naději (I)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -42,6 +42,6 @@ lepšího světa který tady už byl
 byl a zas bude  
 byl bude a je
 
-24\. dubna 1980
+_24\. dubna 1980_
 
 </section>

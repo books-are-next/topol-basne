@@ -1,6 +1,6 @@
 ---
 title: Thunovská
-contentType: prose
+contentType: poetry
 ---
 
 <section>

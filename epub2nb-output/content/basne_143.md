@@ -1,6 +1,6 @@
 ---
 title: Koncentrák
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -32,6 +32,6 @@ i v oceli a v umělé hmotě
 ale nepamatujeme  
 si samého Boha
 
-21\. ledna 1980
+_21\. ledna 1980_
 
 </section>

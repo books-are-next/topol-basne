@@ -1,6 +1,6 @@
 ---
 title: Epika III
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -39,6 +39,6 @@ chytrý dravec který to přežil
 přesto bytost stvořená  
 byť jen palcem věčného Boha
 
-Krakovec, 1980
+_Krakovec, 1980_
 
 </section>

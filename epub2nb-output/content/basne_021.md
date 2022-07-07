@@ -1,6 +1,6 @@
 ---
 title: De profundis
-contentType: prose
+contentType: poetry
 ---
 
 <section>

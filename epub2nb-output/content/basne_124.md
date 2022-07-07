@@ -1,11 +1,11 @@
 ---
 title: Vigilie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Jiřině
+_Jiřině_
 
 A prší… Modleme se!  
 Odkud kam  
@@ -139,6 +139,6 @@ náš vlastní
 ze kterého se odvíjí  
 truchlé přadénko lnu
 
-Úryvek, 24. dubna 1974
+_Úryvek, 24. dubna 1974_
 
 </section>

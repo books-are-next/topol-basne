@@ -1,6 +1,6 @@
 ---
 title: Kolchida
-contentType: prose
+contentType: poetry
 ---
 
 <section>

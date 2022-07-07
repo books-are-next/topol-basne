@@ -1,6 +1,6 @@
 ---
 title: Dědictví
-contentType: prose
+contentType: poetry
 ---
 
 <section>

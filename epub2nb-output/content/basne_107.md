@@ -1,6 +1,6 @@
 ---
 title: Polední smrt
-contentType: prose
+contentType: poetry
 ---
 
 <section>

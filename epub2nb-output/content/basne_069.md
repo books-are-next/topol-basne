@@ -1,6 +1,6 @@
 ---
 title: Dětský průvod
-contentType: prose
+contentType: poetry
 ---
 
 <section>

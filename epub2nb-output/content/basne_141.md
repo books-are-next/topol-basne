@@ -1,6 +1,6 @@
 ---
 title: VIII
-contentType: prose
+contentType: poetry
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Tělesnosti!
-contentType: prose
+contentType: poetry
 ---
 
 <section>

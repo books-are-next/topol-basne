@@ -1,6 +1,6 @@
 ---
 title: Padesát
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -27,6 +27,6 @@ s virózou konce s bakterií vzniku
 když nepokojná hlava hledá ospravedlnění  
 takového už napůl života a napůl smrti
 
-21\. dubna 1980
+_21\. dubna 1980_
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: Uvidět tělo
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -52,6 +52,6 @@ námět k pomníku i k pranýři
 
 Všecko zšedlo a všichni se odmlčeli
 
-Zavidov, 1980
+_Zavidov, 1980_
 
 </section>

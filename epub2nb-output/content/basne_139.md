@@ -1,11 +1,11 @@
 ---
 title: Epika II
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Tetě Anně
+_Tetě Anně_
 
 Už se schylovalo k jejímu konci  
 viděl jsem to na jejich rukou koncem léta  
@@ -94,6 +94,6 @@ Galanthus nivalis a Leucoium vernum
 do mého života se vracely  
 popaměti kvetoucí její rukou
 
-Krakovec, 1980
+_Krakovec, 1980_
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: Kdo jsem
-contentType: prose
+contentType: poetry
 ---
 
 <section>

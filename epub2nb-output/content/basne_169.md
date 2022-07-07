@@ -1,6 +1,6 @@
 ---
 title: A co zbude po nás?
-contentType: prose
+contentType: poetry
 ---
 
 <section>

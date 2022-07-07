@@ -1,6 +1,6 @@
 ---
 title: Úplňky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

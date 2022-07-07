@@ -1,6 +1,6 @@
 ---
 title: Černé pomyšlení
-contentType: prose
+contentType: poetry
 ---
 
 <section>

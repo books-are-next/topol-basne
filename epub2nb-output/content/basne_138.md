@@ -1,11 +1,11 @@
 ---
 title: Epika I
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Sestře
+_Sestře_
 
 A dřív než se setmí  
 dokud nemusím nad závějí  
@@ -75,6 +75,6 @@ ti nemám za zlé cos chtěla učinit!
 Šaty člověka po něm špínu a krev  
 spravedlivý Bůh svěřuje čistým duším
 
-24\. dubna 1980
+_24\. dubna 1980_
 
 </section>

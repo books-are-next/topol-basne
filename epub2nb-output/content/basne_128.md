@@ -1,6 +1,6 @@
 ---
 title: Vánoce 77
-contentType: prose
+contentType: poetry
 ---
 
 <section>

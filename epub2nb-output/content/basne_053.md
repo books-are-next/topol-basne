@@ -1,6 +1,6 @@
 ---
 title: 22\. 5\. 1959
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Sebevražda
-contentType: prose
+contentType: poetry
 ---
 
 <section>

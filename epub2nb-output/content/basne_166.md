@@ -1,6 +1,6 @@
 ---
 title: Věře
-contentType: prose
+contentType: poetry
 ---
 
 <section>

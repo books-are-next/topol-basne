@@ -1,6 +1,6 @@
 ---
 title: Svítání
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -15,6 +15,6 @@ Jenom straka ošálená bloudí od stromu
              k stromu  
 na jehnědách ji zlákaly zmrzlé slzy
 
-1980
+_1980_
 
 </section>

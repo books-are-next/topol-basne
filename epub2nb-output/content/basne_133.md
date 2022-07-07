@@ -1,6 +1,6 @@
 ---
 title: '* * *'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -12,6 +12,6 @@ a při ohlédnuti
 je to skvrna po lásce která pouští  
 když nezadržíme dech
 
-26\. července 1978
+_26\. července 1978_
 
 </section>

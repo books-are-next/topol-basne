@@ -1,6 +1,6 @@
 ---
 title: Plynoucí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

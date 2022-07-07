@@ -1,6 +1,6 @@
 ---
 title: Snoubení
-contentType: prose
+contentType: poetry
 ---
 
 <section>

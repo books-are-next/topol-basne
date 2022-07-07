@@ -1,6 +1,6 @@
 ---
 title: Poříčí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

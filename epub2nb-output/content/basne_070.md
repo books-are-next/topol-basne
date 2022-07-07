@@ -1,6 +1,6 @@
 ---
 title: Ráno po smrti
-contentType: prose
+contentType: poetry
 ---
 
 <section>

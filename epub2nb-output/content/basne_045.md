@@ -1,6 +1,6 @@
 ---
 title: Zlatý věk
-contentType: prose
+contentType: poetry
 ---
 
 <section>

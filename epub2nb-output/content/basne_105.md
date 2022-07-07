@@ -1,6 +1,6 @@
 ---
 title: Homilie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -34,6 +34,6 @@ k nám tvrdě dopadá ten psí syn
 v kumbálech hospod zas to páchne močí  
 a budoucnost nám vylupuje oči_
 
-1968
+_1968_
 
 </section>

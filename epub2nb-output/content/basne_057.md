@@ -1,6 +1,6 @@
 ---
 title: Koktejly
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -30,6 +30,6 @@ a co na pláži
 se bezostyšně svléká:  
 Pravý šampaňský vzmach
 
-Jalta, 1960
+_Jalta, 1960_
 
 </section>

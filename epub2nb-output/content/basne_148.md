@@ -1,6 +1,6 @@
 ---
 title: O depresi
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -37,6 +37,6 @@ Je svatého Vojtěcha stále sněží
 ovečky z Arktidy se přišly pást  
 na naše luhy
 
-23\. dubna 1980
+_23\. dubna 1980_
 
 </section>

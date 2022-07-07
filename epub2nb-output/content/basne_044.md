@@ -1,11 +1,11 @@
 ---
 title: Oharky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Jiřině
+_Jiřině_
 
 Poslední louč čadící a čpící  
 S jiskrami padlými  

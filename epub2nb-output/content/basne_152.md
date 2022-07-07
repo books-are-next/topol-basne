@@ -1,11 +1,11 @@
 ---
 title: Abeceda
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Zdeňku Urbánkovi
+_Zdeňku Urbánkovi_
 
 Po létech je příznivé léto  
 které trvá až do podzimu  
@@ -57,6 +57,6 @@ a potulujeme se kolem sadařských bud
 kde se debatuje o moru včel  
 a nedbá na královny
 
-5\. října 1980
+_5\. října 1980_
 
 </section>

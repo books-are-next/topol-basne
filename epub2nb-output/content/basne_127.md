@@ -1,6 +1,6 @@
 ---
 title: '* * *'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -29,6 +29,6 @@ Jenom Bruncvík
 to dosud hlídá  
 Marino Cvetajevo!
 
-Vánoce 1977
+_Vánoce 1977_
 
 </section>

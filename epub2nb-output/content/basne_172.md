@@ -1,6 +1,6 @@
 ---
 title: Písnička
-contentType: prose
+contentType: poetry
 ---
 
 <section>

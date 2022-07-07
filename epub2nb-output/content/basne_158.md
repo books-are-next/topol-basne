@@ -1,6 +1,6 @@
 ---
 title: Vteřiny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,11 @@
 ---
 title: Podsvětí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ivanu Skálovi
+_Ivanu Skálovi_
 
 Ve škole jsme se ptali: A tak  
 je ještě podsvětí když je svět?  

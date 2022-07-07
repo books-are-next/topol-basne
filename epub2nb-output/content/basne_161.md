@@ -1,6 +1,6 @@
 ---
 title: Můrovi
-contentType: prose
+contentType: poetry
 ---
 
 <section>

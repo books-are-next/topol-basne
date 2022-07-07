@@ -1,6 +1,6 @@
 ---
 title: VI  LITURGIE ČASU
-contentType: prose
+contentType: poetry
 ---
 
 

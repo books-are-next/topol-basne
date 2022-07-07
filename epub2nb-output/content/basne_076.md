@@ -1,6 +1,6 @@
 ---
 title: Cantus firmus
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: O naději (II)
-contentType: prose
+contentType: poetry
 ---
 
 <section>

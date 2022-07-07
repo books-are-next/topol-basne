@@ -1,6 +1,6 @@
 ---
 title: 19\. 1\. 1978
-contentType: prose
+contentType: poetry
 ---
 
 <section>

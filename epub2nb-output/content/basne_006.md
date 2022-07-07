@@ -1,6 +1,6 @@
 ---
 title: I  BÁSNĚ A JEJICH TORSA
-contentType: prose
+contentType: poetry
 ---
 
 <section>

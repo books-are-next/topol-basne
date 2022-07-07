@@ -1,6 +1,6 @@
 ---
 title: Loučení se synem
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -21,6 +21,6 @@ zdlouhavě bolestivě
 když předtím vpadli do našeho života  
 úderem hromu
 
-10\. července 1981
+_10\. července 1981_
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -176,7 +176,7 @@ Jako august v kupoli tvého cirku
 Nastavuji tvář paprsku světla  
 Aby někdo v dálce moh číst  
 Neboť pořád jsou odněkud ke mně upřené  
-              oči
+             oči
 
 (Stopy v rose rozdupané jitřními jeleny)
 
@@ -384,6 +384,6 @@ A nápovědě dala směšnou budku:
 Jeviště Časem podminované  
 Kejklíře slova smetáš salvou smíchu
 
-Torso, přelom 70. a 80. let
+_Torso, přelom 70. a 80. let_
 
 </section>

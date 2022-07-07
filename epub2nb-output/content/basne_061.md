@@ -1,6 +1,6 @@
 ---
 title: III
-contentType: prose
+contentType: poetry
 ---
 
 

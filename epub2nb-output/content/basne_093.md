@@ -1,11 +1,11 @@
 ---
 title: Dálnopis
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Petrovi V.
+_Petrovi V._
 
 Ve stínu stébel spím  
 Slepice hrob mi hrabou  

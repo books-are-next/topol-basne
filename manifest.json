@@ -1,0 +1,4795 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Básně",
+  "author": "Josef Topol",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "topol-basne-7d1cda7",
+  "revision": "7d1cda7",
+  "readingOrder": [
+    "promo.html",
+    "basne_005.html",
+    "basne_006.html",
+    "basne_007.html",
+    "basne_008.html",
+    "basne_009.html",
+    "basne_010.html",
+    "basne_011.html",
+    "basne_012.html",
+    "basne_013.html",
+    "basne_014.html",
+    "basne_015.html",
+    "basne_016.html",
+    "basne_017.html",
+    "basne_018.html",
+    "basne_019.html",
+    "basne_020.html",
+    "basne_021.html",
+    "basne_022.html",
+    "basne_023.html",
+    "basne_024.html",
+    "basne_025.html",
+    "basne_026.html",
+    "basne_027.html",
+    "basne_028.html",
+    "basne_029.html",
+    "basne_030.html",
+    "basne_031.html",
+    "basne_032.html",
+    "basne_033.html",
+    "basne_034.html",
+    "basne_035.html",
+    "basne_036.html",
+    "basne_037.html",
+    "basne_038.html",
+    "basne_039.html",
+    "basne_040.html",
+    "basne_041.html",
+    "basne_042.html",
+    "basne_043.html",
+    "basne_044.html",
+    "basne_045.html",
+    "basne_046.html",
+    "basne_047.html",
+    "basne_048.html",
+    "basne_049.html",
+    "basne_050.html",
+    "basne_051.html",
+    "basne_052.html",
+    "basne_053.html",
+    "basne_054.html",
+    "basne_055.html",
+    "basne_056.html",
+    "basne_057.html",
+    "basne_058.html",
+    "basne_059.html",
+    "basne_060.html",
+    "basne_061.html",
+    "basne_062.html",
+    "basne_063.html",
+    "basne_064.html",
+    "basne_065.html",
+    "basne_066.html",
+    "basne_067.html",
+    "basne_068.html",
+    "basne_069.html",
+    "basne_070.html",
+    "basne_071.html",
+    "basne_072.html",
+    "basne_073.html",
+    "basne_074.html",
+    "basne_075.html",
+    "basne_076.html",
+    "basne_077.html",
+    "basne_078.html",
+    "basne_079.html",
+    "basne_080.html",
+    "basne_081.html",
+    "basne_082.html",
+    "basne_083.html",
+    "basne_084.html",
+    "basne_085.html",
+    "basne_086.html",
+    "basne_087.html",
+    "basne_088.html",
+    "basne_089.html",
+    "basne_090.html",
+    "basne_091.html",
+    "basne_092.html",
+    "basne_093.html",
+    "basne_094.html",
+    "basne_095.html",
+    "basne_096.html",
+    "basne_097.html",
+    "basne_098.html",
+    "basne_099.html",
+    "basne_100.html",
+    "basne_101.html",
+    "basne_102.html",
+    "basne_103.html",
+    "basne_104.html",
+    "basne_105.html",
+    "basne_106.html",
+    "basne_107.html",
+    "basne_108.html",
+    "basne_109.html",
+    "basne_110.html",
+    "basne_111.html",
+    "basne_112.html",
+    "basne_113.html",
+    "basne_114.html",
+    "basne_115.html",
+    "basne_116.html",
+    "basne_117.html",
+    "basne_118.html",
+    "basne_119.html",
+    "basne_120.html",
+    "basne_121.html",
+    "basne_122.html",
+    "basne_123.html",
+    "basne_124.html",
+    "basne_125.html",
+    "basne_126.html",
+    "basne_127.html",
+    "basne_128.html",
+    "basne_129.html",
+    "basne_130.html",
+    "basne_131.html",
+    "basne_132.html",
+    "basne_133.html",
+    "basne_134.html",
+    "basne_135.html",
+    "basne_136.html",
+    "basne_137.html",
+    "basne_138.html",
+    "basne_139.html",
+    "basne_140.html",
+    "basne_141.html",
+    "basne_142.html",
+    "basne_143.html",
+    "basne_144.html",
+    "basne_145.html",
+    "basne_146.html",
+    "basne_147.html",
+    "basne_148.html",
+    "basne_149.html",
+    "basne_150.html",
+    "basne_151.html",
+    "basne_152.html",
+    "basne_153.html",
+    "basne_154.html",
+    "basne_155.html",
+    "basne_156.html",
+    "basne_157.html",
+    "basne_158.html",
+    "basne_159.html",
+    "basne_160.html",
+    "basne_161.html",
+    "basne_162.html",
+    "basne_163.html",
+    "basne_164.html",
+    "basne_165.html",
+    "basne_166.html",
+    "basne_167.html",
+    "basne_168.html",
+    "basne_169.html",
+    "basne_170.html",
+    "basne_171.html",
+    "basne_172.html",
+    "basne_173.html",
+    "basne_174.html",
+    "basne_175.html",
+    "basne_176.html",
+    "basne_177.html",
+    "basne_178.html",
+    "basne_179.html",
+    "basne_180.html",
+    "basne_181.html",
+    "basne_182.html",
+    "basne_183.html",
+    "basne_184.html",
+    "basne_185.html",
+    "basne_186.html",
+    "basne_187.html",
+    "basne_188.html",
+    "basne_189.html",
+    "basne_190.html",
+    "basne_191.html",
+    "basne_192.html",
+    "basne_193.html",
+    "basne_194.html",
+    "basne_195.html",
+    "basne_196.html",
+    "basne_197.html",
+    "basne_198.html",
+    "basne_199.html",
+    "basne_200.html",
+    "basne_201.html",
+    "basne_202.html",
+    "basne_203.html",
+    "basne_204.html",
+    "basne_205.html",
+    "basne_206.html",
+    "basne_207.html",
+    "basne_208.html",
+    "basne_209.html",
+    "basne_210.html",
+    "basne_211.html",
+    "basne_212.html",
+    "basne_213.html",
+    "basne_214.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 07 2022 10:24:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657189497667
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "basne_005.html",
+      "toc": []
+    },
+    {
+      "title": "První verš",
+      "file": "basne_005.html",
+      "words": 130,
+      "chars": 693,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "basne_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První verš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I  BÁSNĚ A JEJICH TORSA",
+      "file": "basne_006.html",
+      "words": 7,
+      "chars": 34,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "basne_005.html",
+      "next": "basne_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I  BÁSNĚ A JEJICH TORSA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Venkovské bály",
+      "file": "basne_007.html",
+      "words": 565,
+      "chars": 3259,
+      "ideas": 135,
+      "role": "chapter",
+      "order": 3,
+      "prev": "basne_006.html",
+      "next": "basne_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Venkovské bály",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hlava",
+      "file": "basne_008.html",
+      "words": 131,
+      "chars": 727,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 4,
+      "prev": "basne_007.html",
+      "next": "basne_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hlava",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Proměny",
+      "file": "basne_009.html",
+      "words": 340,
+      "chars": 1984,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 5,
+      "prev": "basne_008.html",
+      "next": "basne_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proměny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tajnosti",
+      "file": "basne_010.html",
+      "words": 92,
+      "chars": 518,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 6,
+      "prev": "basne_009.html",
+      "next": "basne_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tajnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Půl noci",
+      "file": "basne_011.html",
+      "words": 152,
+      "chars": 839,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 7,
+      "prev": "basne_010.html",
+      "next": "basne_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Půl noci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes a luna",
+      "file": "basne_012.html",
+      "words": 268,
+      "chars": 1472,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 8,
+      "prev": "basne_011.html",
+      "next": "basne_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pes a luna",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Triumf",
+      "file": "basne_013.html",
+      "words": 131,
+      "chars": 773,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 9,
+      "prev": "basne_012.html",
+      "next": "basne_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Triumf",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tkvění",
+      "file": "basne_014.html",
+      "words": 27,
+      "chars": 155,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 10,
+      "prev": "basne_013.html",
+      "next": "basne_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tkvění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Legenda",
+      "file": "basne_015.html",
+      "words": 1042,
+      "chars": 5618,
+      "ideas": 197,
+      "role": "chapter",
+      "order": 11,
+      "prev": "basne_014.html",
+      "next": "basne_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Legenda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dospělost",
+      "file": "basne_016.html",
+      "words": 128,
+      "chars": 759,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 12,
+      "prev": "basne_015.html",
+      "next": "basne_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dospělost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tristium",
+      "file": "basne_017.html",
+      "words": 147,
+      "chars": 766,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 13,
+      "prev": "basne_016.html",
+      "next": "basne_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tristium",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Andělská jízda",
+      "file": "basne_018.html",
+      "words": 116,
+      "chars": 604,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 14,
+      "prev": "basne_017.html",
+      "next": "basne_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Andělská jízda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hlasy",
+      "file": "basne_019.html",
+      "words": 364,
+      "chars": 2042,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 15,
+      "prev": "basne_018.html",
+      "next": "basne_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hlasy",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vpád",
+      "file": "basne_020.html",
+      "words": 103,
+      "chars": 614,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 16,
+      "prev": "basne_019.html",
+      "next": "basne_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vpád",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "De profundis",
+      "file": "basne_021.html",
+      "words": 87,
+      "chars": 463,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 17,
+      "prev": "basne_020.html",
+      "next": "basne_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "De profundis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zavržení",
+      "file": "basne_022.html",
+      "words": 96,
+      "chars": 527,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 18,
+      "prev": "basne_021.html",
+      "next": "basne_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zavržení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hra o",
+      "file": "basne_023.html",
+      "words": 54,
+      "chars": 302,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 19,
+      "prev": "basne_022.html",
+      "next": "basne_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hra o",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebesa",
+      "file": "basne_024.html",
+      "words": 79,
+      "chars": 447,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 20,
+      "prev": "basne_023.html",
+      "next": "basne_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebesa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Snoubení",
+      "file": "basne_025.html",
+      "words": 123,
+      "chars": 728,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 21,
+      "prev": "basne_024.html",
+      "next": "basne_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Snoubení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Modlitba",
+      "file": "basne_026.html",
+      "words": 52,
+      "chars": 288,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "basne_025.html",
+      "next": "basne_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Modlitba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krutost",
+      "file": "basne_027.html",
+      "words": 88,
+      "chars": 523,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 23,
+      "prev": "basne_026.html",
+      "next": "basne_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krutost",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jsoucí",
+      "file": "basne_028.html",
+      "words": 74,
+      "chars": 445,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 24,
+      "prev": "basne_027.html",
+      "next": "basne_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsoucí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plynoucí",
+      "file": "basne_029.html",
+      "words": 33,
+      "chars": 194,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 25,
+      "prev": "basne_028.html",
+      "next": "basne_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plynoucí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Promlčování",
+      "file": "basne_030.html",
+      "words": 78,
+      "chars": 455,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 26,
+      "prev": "basne_029.html",
+      "next": "basne_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Promlčování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dovršení",
+      "file": "basne_031.html",
+      "words": 95,
+      "chars": 539,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 27,
+      "prev": "basne_030.html",
+      "next": "basne_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dovršení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Veliká báseň",
+      "file": "basne_032.html",
+      "words": 73,
+      "chars": 387,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 28,
+      "prev": "basne_031.html",
+      "next": "basne_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Veliká báseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ave",
+      "file": "basne_033.html",
+      "words": 60,
+      "chars": 322,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 29,
+      "prev": "basne_032.html",
+      "next": "basne_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ave",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věčnost světla",
+      "file": "basne_034.html",
+      "words": 230,
+      "chars": 1396,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 30,
+      "prev": "basne_033.html",
+      "next": "basne_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věčnost světla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výpad",
+      "file": "basne_035.html",
+      "words": 40,
+      "chars": 196,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 31,
+      "prev": "basne_034.html",
+      "next": "basne_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výpad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Navštívení",
+      "file": "basne_036.html",
+      "words": 100,
+      "chars": 520,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 32,
+      "prev": "basne_035.html",
+      "next": "basne_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Navštívení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Torso",
+      "file": "basne_037.html",
+      "words": 93,
+      "chars": 517,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 33,
+      "prev": "basne_036.html",
+      "next": "basne_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Torso",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Růžový pokoj",
+      "file": "basne_038.html",
+      "words": 116,
+      "chars": 642,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 34,
+      "prev": "basne_037.html",
+      "next": "basne_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Růžový pokoj",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pohřbívání stromů",
+      "file": "basne_039.html",
+      "words": 115,
+      "chars": 720,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 35,
+      "prev": "basne_038.html",
+      "next": "basne_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohřbívání stromů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Počátek světa",
+      "file": "basne_040.html",
+      "words": 86,
+      "chars": 481,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 36,
+      "prev": "basne_039.html",
+      "next": "basne_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Počátek světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní jízda",
+      "file": "basne_041.html",
+      "words": 138,
+      "chars": 767,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 37,
+      "prev": "basne_040.html",
+      "next": "basne_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Denní jízda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tíže zemská",
+      "file": "basne_042.html",
+      "words": 112,
+      "chars": 608,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 38,
+      "prev": "basne_041.html",
+      "next": "basne_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tíže zemská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čas lásky",
+      "file": "basne_043.html",
+      "words": 103,
+      "chars": 541,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 39,
+      "prev": "basne_042.html",
+      "next": "basne_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čas lásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oharky",
+      "file": "basne_044.html",
+      "words": 92,
+      "chars": 483,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 40,
+      "prev": "basne_043.html",
+      "next": "basne_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oharky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlatý věk",
+      "file": "basne_045.html",
+      "words": 67,
+      "chars": 351,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 41,
+      "prev": "basne_044.html",
+      "next": "basne_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlatý věk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sicut erat",
+      "file": "basne_046.html",
+      "words": 71,
+      "chars": 406,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 42,
+      "prev": "basne_045.html",
+      "next": "basne_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sicut erat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dědictví",
+      "file": "basne_047.html",
+      "words": 122,
+      "chars": 657,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 43,
+      "prev": "basne_046.html",
+      "next": "basne_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dědictví",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Stesk",
+      "file": "basne_048.html",
+      "words": 55,
+      "chars": 312,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 44,
+      "prev": "basne_047.html",
+      "next": "basne_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stesk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční jízda",
+      "file": "basne_049.html",
+      "words": 145,
+      "chars": 813,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 45,
+      "prev": "basne_048.html",
+      "next": "basne_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční jízda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mumraj",
+      "file": "basne_050.html",
+      "words": 106,
+      "chars": 572,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 46,
+      "prev": "basne_049.html",
+      "next": "basne_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mumraj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "basne_051.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 47,
+      "prev": "basne_050.html",
+      "next": "basne_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vábnička",
+      "file": "basne_052.html",
+      "words": 132,
+      "chars": 645,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 48,
+      "prev": "basne_051.html",
+      "next": "basne_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vábnička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22. 5. 1959",
+      "file": "basne_053.html",
+      "words": 71,
+      "chars": 379,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 49,
+      "prev": "basne_052.html",
+      "next": "basne_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22. 5. 1959",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Siroba",
+      "file": "basne_054.html",
+      "words": 102,
+      "chars": 616,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 50,
+      "prev": "basne_053.html",
+      "next": "basne_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Siroba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Requiescat",
+      "file": "basne_055.html",
+      "words": 379,
+      "chars": 1993,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 51,
+      "prev": "basne_054.html",
+      "next": "basne_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Requiescat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příliv",
+      "file": "basne_056.html",
+      "words": 78,
+      "chars": 422,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 52,
+      "prev": "basne_055.html",
+      "next": "basne_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příliv",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koktejly",
+      "file": "basne_057.html",
+      "words": 68,
+      "chars": 376,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 53,
+      "prev": "basne_056.html",
+      "next": "basne_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koktejly",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bázeň mé básně",
+      "file": "basne_058.html",
+      "words": 107,
+      "chars": 576,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 54,
+      "prev": "basne_057.html",
+      "next": "basne_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bázeň mé básně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsem Herodes kajícný",
+      "file": "basne_059.html",
+      "words": 139,
+      "chars": 786,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 55,
+      "prev": "basne_058.html",
+      "next": "basne_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsem Herodes kajícný",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pouhá cesta",
+      "file": "basne_060.html",
+      "words": 116,
+      "chars": 612,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 56,
+      "prev": "basne_059.html",
+      "next": "basne_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pouhá cesta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "basne_061.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 57,
+      "prev": "basne_060.html",
+      "next": "basne_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrt Erbenova",
+      "file": "basne_062.html",
+      "words": 321,
+      "chars": 1784,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 58,
+      "prev": "basne_061.html",
+      "next": "basne_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smrt Erbenova",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Škaredá středa",
+      "file": "basne_063.html",
+      "words": 139,
+      "chars": 776,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 59,
+      "prev": "basne_062.html",
+      "next": "basne_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Škaredá středa",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Před bouří",
+      "file": "basne_064.html",
+      "words": 35,
+      "chars": 164,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 60,
+      "prev": "basne_063.html",
+      "next": "basne_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Před bouří",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hon na bažanty",
+      "file": "basne_065.html",
+      "words": 94,
+      "chars": 475,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 61,
+      "prev": "basne_064.html",
+      "next": "basne_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hon na bažanty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přízemnost",
+      "file": "basne_066.html",
+      "words": 140,
+      "chars": 775,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 62,
+      "prev": "basne_065.html",
+      "next": "basne_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přízemnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koleda hladu",
+      "file": "basne_067.html",
+      "words": 73,
+      "chars": 429,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 63,
+      "prev": "basne_066.html",
+      "next": "basne_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koleda hladu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Černé pomyšlení",
+      "file": "basne_068.html",
+      "words": 76,
+      "chars": 419,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 64,
+      "prev": "basne_067.html",
+      "next": "basne_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Černé pomyšlení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dětský průvod",
+      "file": "basne_069.html",
+      "words": 126,
+      "chars": 831,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 65,
+      "prev": "basne_068.html",
+      "next": "basne_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dětský průvod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ráno po smrti",
+      "file": "basne_070.html",
+      "words": 108,
+      "chars": 702,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 66,
+      "prev": "basne_069.html",
+      "next": "basne_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ráno po smrti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta pouští",
+      "file": "basne_071.html",
+      "words": 58,
+      "chars": 318,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 67,
+      "prev": "basne_070.html",
+      "next": "basne_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta pouští",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jiná koleda hladu",
+      "file": "basne_072.html",
+      "words": 76,
+      "chars": 416,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 68,
+      "prev": "basne_071.html",
+      "next": "basne_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jiná koleda hladu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsou povětří",
+      "file": "basne_073.html",
+      "words": 33,
+      "chars": 186,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 69,
+      "prev": "basne_072.html",
+      "next": "basne_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsou povětří",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pak žena",
+      "file": "basne_074.html",
+      "words": 89,
+      "chars": 532,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 70,
+      "prev": "basne_073.html",
+      "next": "basne_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pak žena",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Les préludes",
+      "file": "basne_075.html",
+      "words": 71,
+      "chars": 430,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 71,
+      "prev": "basne_074.html",
+      "next": "basne_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Les préludes",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cantus firmus",
+      "file": "basne_076.html",
+      "words": 130,
+      "chars": 701,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 72,
+      "prev": "basne_075.html",
+      "next": "basne_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cantus firmus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stvoření",
+      "file": "basne_077.html",
+      "words": 117,
+      "chars": 653,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 73,
+      "prev": "basne_076.html",
+      "next": "basne_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stvoření",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romance černomořská",
+      "file": "basne_078.html",
+      "words": 96,
+      "chars": 474,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 74,
+      "prev": "basne_077.html",
+      "next": "basne_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Romance černomořská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doufání ve smrt",
+      "file": "basne_079.html",
+      "words": 66,
+      "chars": 378,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 75,
+      "prev": "basne_078.html",
+      "next": "basne_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doufání ve smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Altový doprovod",
+      "file": "basne_080.html",
+      "words": 97,
+      "chars": 525,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 76,
+      "prev": "basne_079.html",
+      "next": "basne_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Altový doprovod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "basne_081.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 77,
+      "prev": "basne_080.html",
+      "next": "basne_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pastviny těla",
+      "file": "basne_082.html",
+      "words": 34,
+      "chars": 210,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 78,
+      "prev": "basne_081.html",
+      "next": "basne_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pastviny těla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Srpnový průvod",
+      "file": "basne_083.html",
+      "words": 184,
+      "chars": 1030,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 79,
+      "prev": "basne_082.html",
+      "next": "basne_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Srpnový průvod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ženichovo lože",
+      "file": "basne_084.html",
+      "words": 56,
+      "chars": 323,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 80,
+      "prev": "basne_083.html",
+      "next": "basne_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ženichovo lože",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Déšť padá na rány",
+      "file": "basne_085.html",
+      "words": 108,
+      "chars": 629,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 81,
+      "prev": "basne_084.html",
+      "next": "basne_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Déšť padá na rány",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U jednoho stolu",
+      "file": "basne_086.html",
+      "words": 157,
+      "chars": 893,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 82,
+      "prev": "basne_085.html",
+      "next": "basne_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U jednoho stolu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řemeslo",
+      "file": "basne_087.html",
+      "words": 106,
+      "chars": 619,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 83,
+      "prev": "basne_086.html",
+      "next": "basne_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řemeslo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo jsem",
+      "file": "basne_088.html",
+      "words": 92,
+      "chars": 483,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 84,
+      "prev": "basne_087.html",
+      "next": "basne_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo jsem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A slovo tělem učiněno jest",
+      "file": "basne_089.html",
+      "words": 182,
+      "chars": 947,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 85,
+      "prev": "basne_088.html",
+      "next": "basne_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A slovo tělem učiněno jest",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pletení houžve",
+      "file": "basne_090.html",
+      "words": 116,
+      "chars": 678,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 86,
+      "prev": "basne_089.html",
+      "next": "basne_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pletení houžve",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sádrové sochy",
+      "file": "basne_091.html",
+      "words": 65,
+      "chars": 368,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 87,
+      "prev": "basne_090.html",
+      "next": "basne_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sádrové sochy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Síla stálosti",
+      "file": "basne_092.html",
+      "words": 191,
+      "chars": 1130,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 88,
+      "prev": "basne_091.html",
+      "next": "basne_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Síla stálosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dálnopis",
+      "file": "basne_093.html",
+      "words": 98,
+      "chars": 584,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 89,
+      "prev": "basne_092.html",
+      "next": "basne_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dálnopis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doručitelé věnců",
+      "file": "basne_094.html",
+      "words": 109,
+      "chars": 607,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 90,
+      "prev": "basne_093.html",
+      "next": "basne_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doručitelé věnců",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jmelí",
+      "file": "basne_095.html",
+      "words": 58,
+      "chars": 330,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 91,
+      "prev": "basne_094.html",
+      "next": "basne_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jmelí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Horečka",
+      "file": "basne_096.html",
+      "words": 101,
+      "chars": 551,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 92,
+      "prev": "basne_095.html",
+      "next": "basne_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Horečka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úklady",
+      "file": "basne_097.html",
+      "words": 84,
+      "chars": 488,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 93,
+      "prev": "basne_096.html",
+      "next": "basne_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úklady",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_098.html",
+      "words": 54,
+      "chars": 273,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 94,
+      "prev": "basne_097.html",
+      "next": "basne_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mdloba",
+      "file": "basne_099.html",
+      "words": 54,
+      "chars": 294,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 95,
+      "prev": "basne_098.html",
+      "next": "basne_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mdloba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pastvu má podzim",
+      "file": "basne_100.html",
+      "words": 90,
+      "chars": 555,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 96,
+      "prev": "basne_099.html",
+      "next": "basne_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pastvu má podzim",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poločas",
+      "file": "basne_101.html",
+      "words": 88,
+      "chars": 464,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 97,
+      "prev": "basne_100.html",
+      "next": "basne_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poločas",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nespavost",
+      "file": "basne_102.html",
+      "words": 116,
+      "chars": 580,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 98,
+      "prev": "basne_101.html",
+      "next": "basne_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nespavost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příběh",
+      "file": "basne_103.html",
+      "words": 245,
+      "chars": 1305,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 99,
+      "prev": "basne_102.html",
+      "next": "basne_104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příběh",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Saul",
+              "id": "saul",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Jonathan",
+              "id": "jonathan",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "David král",
+              "id": "david-král",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Záznamy",
+      "file": "basne_104.html",
+      "words": 408,
+      "chars": 2144,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 100,
+      "prev": "basne_103.html",
+      "next": "basne_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Záznamy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Homilie",
+      "file": "basne_105.html",
+      "words": 143,
+      "chars": 757,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 101,
+      "prev": "basne_104.html",
+      "next": "basne_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Homilie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "file": "basne_106.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 102,
+      "prev": "basne_105.html",
+      "next": "basne_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Polední smrt",
+      "file": "basne_107.html",
+      "words": 111,
+      "chars": 603,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 103,
+      "prev": "basne_106.html",
+      "next": "basne_108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Polední smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příchozí",
+      "file": "basne_108.html",
+      "words": 116,
+      "chars": 669,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 104,
+      "prev": "basne_107.html",
+      "next": "basne_109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příchozí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vyznání",
+      "file": "basne_109.html",
+      "words": 63,
+      "chars": 296,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 105,
+      "prev": "basne_108.html",
+      "next": "basne_110.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vyznání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Studna",
+      "file": "basne_110.html",
+      "words": 67,
+      "chars": 375,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 106,
+      "prev": "basne_109.html",
+      "next": "basne_111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Studna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kolchida",
+      "file": "basne_111.html",
+      "words": 99,
+      "chars": 547,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 107,
+      "prev": "basne_110.html",
+      "next": "basne_112.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kolchida",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vytrvalý déšť",
+      "file": "basne_112.html",
+      "words": 146,
+      "chars": 802,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 108,
+      "prev": "basne_111.html",
+      "next": "basne_113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vytrvalý déšť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Souchotiny",
+      "file": "basne_113.html",
+      "words": 118,
+      "chars": 682,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 109,
+      "prev": "basne_112.html",
+      "next": "basne_114.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Souchotiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Černá hodinka",
+      "file": "basne_114.html",
+      "words": 127,
+      "chars": 724,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 110,
+      "prev": "basne_113.html",
+      "next": "basne_115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Černá hodinka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Divný den",
+      "file": "basne_115.html",
+      "words": 126,
+      "chars": 673,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 111,
+      "prev": "basne_114.html",
+      "next": "basne_116.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Divný den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Láska",
+      "file": "basne_116.html",
+      "words": 56,
+      "chars": 312,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 112,
+      "prev": "basne_115.html",
+      "next": "basne_117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Láska",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kruhy pod očima",
+      "file": "basne_117.html",
+      "words": 178,
+      "chars": 1076,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 113,
+      "prev": "basne_116.html",
+      "next": "basne_118.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kruhy pod očima",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obětina",
+      "file": "basne_118.html",
+      "words": 75,
+      "chars": 407,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 114,
+      "prev": "basne_117.html",
+      "next": "basne_119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obětina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_119.html",
+      "words": 145,
+      "chars": 782,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 115,
+      "prev": "basne_118.html",
+      "next": "basne_120.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_120.html",
+      "words": 119,
+      "chars": 651,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 116,
+      "prev": "basne_119.html",
+      "next": "basne_121.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_121.html",
+      "words": 47,
+      "chars": 226,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 117,
+      "prev": "basne_120.html",
+      "next": "basne_122.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_122.html",
+      "words": 43,
+      "chars": 223,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 118,
+      "prev": "basne_121.html",
+      "next": "basne_123.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_123.html",
+      "words": 44,
+      "chars": 221,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 119,
+      "prev": "basne_122.html",
+      "next": "basne_124.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vigilie",
+      "file": "basne_124.html",
+      "words": 572,
+      "chars": 3081,
+      "ideas": 127,
+      "role": "chapter",
+      "order": 120,
+      "prev": "basne_123.html",
+      "next": "basne_125.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vigilie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ach —!",
+      "file": "basne_125.html",
+      "words": 214,
+      "chars": 1214,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 121,
+      "prev": "basne_124.html",
+      "next": "basne_126.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ach —!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poesie",
+      "file": "basne_126.html",
+      "words": 171,
+      "chars": 1019,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 122,
+      "prev": "basne_125.html",
+      "next": "basne_127.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poesie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_127.html",
+      "words": 74,
+      "chars": 394,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 123,
+      "prev": "basne_126.html",
+      "next": "basne_128.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vánoce 77",
+      "file": "basne_128.html",
+      "words": 77,
+      "chars": 432,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 124,
+      "prev": "basne_127.html",
+      "next": "basne_129.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vánoce 77",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_129.html",
+      "words": 83,
+      "chars": 423,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 125,
+      "prev": "basne_128.html",
+      "next": "basne_130.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kampa",
+      "file": "basne_130.html",
+      "words": 97,
+      "chars": 527,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 126,
+      "prev": "basne_129.html",
+      "next": "basne_131.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kampa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19. 1. 1978",
+      "file": "basne_131.html",
+      "words": 126,
+      "chars": 653,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 127,
+      "prev": "basne_130.html",
+      "next": "basne_132.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19. 1. 1978",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_132.html",
+      "words": 45,
+      "chars": 227,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 128,
+      "prev": "basne_131.html",
+      "next": "basne_133.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_133.html",
+      "words": 34,
+      "chars": 194,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 129,
+      "prev": "basne_132.html",
+      "next": "basne_134.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Záznam",
+      "file": "basne_134.html",
+      "words": 146,
+      "chars": 874,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 130,
+      "prev": "basne_133.html",
+      "next": "basne_135.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Záznam",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI  LITURGIE ČASU",
+      "file": "basne_135.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 131,
+      "prev": "basne_134.html",
+      "next": "basne_136.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI  LITURGIE ČASU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Básně",
+      "file": "basne_136.html",
+      "words": 1579,
+      "chars": 8896,
+      "ideas": 320,
+      "role": "chapter",
+      "order": 132,
+      "prev": "basne_135.html",
+      "next": "basne_137.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V",
+              "id": "v",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI",
+              "id": "vi",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "VII",
+              "id": "vii",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "VIII",
+              "id": "viii",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "IX",
+              "id": "ix",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "X",
+              "id": "x",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "XI",
+              "id": "xi",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "XII",
+              "id": "xii",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "XIII",
+              "id": "xiii",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "XIV",
+              "id": "xiv",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "XV",
+              "id": "xv",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "XVI",
+              "id": "xvi",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "XVII",
+              "id": "xvii",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "XVIII",
+              "id": "xviii",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "XIX",
+              "id": "xix",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VII",
+      "file": "basne_137.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 133,
+      "prev": "basne_136.html",
+      "next": "basne_138.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epika I",
+      "file": "basne_138.html",
+      "words": 326,
+      "chars": 1834,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 134,
+      "prev": "basne_137.html",
+      "next": "basne_139.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epika I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epika II",
+      "file": "basne_139.html",
+      "words": 424,
+      "chars": 2370,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 135,
+      "prev": "basne_138.html",
+      "next": "basne_140.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epika II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epika III",
+      "file": "basne_140.html",
+      "words": 152,
+      "chars": 826,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 136,
+      "prev": "basne_139.html",
+      "next": "basne_141.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epika III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII",
+      "file": "basne_141.html",
+      "words": 1,
+      "chars": 4,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 137,
+      "prev": "basne_140.html",
+      "next": "basne_142.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svítání",
+      "file": "basne_142.html",
+      "words": 40,
+      "chars": 226,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 138,
+      "prev": "basne_141.html",
+      "next": "basne_143.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svítání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koncentrák",
+      "file": "basne_143.html",
+      "words": 110,
+      "chars": 588,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 139,
+      "prev": "basne_142.html",
+      "next": "basne_144.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koncentrák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta zimou",
+      "file": "basne_144.html",
+      "words": 97,
+      "chars": 539,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 140,
+      "prev": "basne_143.html",
+      "next": "basne_145.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta zimou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Uvidět tělo",
+      "file": "basne_145.html",
+      "words": 190,
+      "chars": 1102,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 141,
+      "prev": "basne_144.html",
+      "next": "basne_146.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Uvidět tělo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzkříšení",
+      "file": "basne_146.html",
+      "words": 168,
+      "chars": 941,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 142,
+      "prev": "basne_145.html",
+      "next": "basne_147.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzkříšení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Padesát",
+      "file": "basne_147.html",
+      "words": 94,
+      "chars": 527,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 143,
+      "prev": "basne_146.html",
+      "next": "basne_148.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Padesát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O depresi",
+      "file": "basne_148.html",
+      "words": 139,
+      "chars": 782,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 144,
+      "prev": "basne_147.html",
+      "next": "basne_149.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O depresi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O naději (I)",
+      "file": "basne_149.html",
+      "words": 169,
+      "chars": 924,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 145,
+      "prev": "basne_148.html",
+      "next": "basne_150.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O naději (I)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O naději (II)",
+      "file": "basne_150.html",
+      "words": 83,
+      "chars": 446,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 146,
+      "prev": "basne_149.html",
+      "next": "basne_151.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O naději (II)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_151.html",
+      "words": 31,
+      "chars": 166,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 147,
+      "prev": "basne_150.html",
+      "next": "basne_152.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Abeceda",
+      "file": "basne_152.html",
+      "words": 189,
+      "chars": 1166,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 148,
+      "prev": "basne_151.html",
+      "next": "basne_153.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Abeceda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Loučení se synem",
+      "file": "basne_153.html",
+      "words": 60,
+      "chars": 366,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 149,
+      "prev": "basne_152.html",
+      "next": "basne_154.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Loučení se synem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Několikátá",
+      "file": "basne_154.html",
+      "words": 137,
+      "chars": 730,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 150,
+      "prev": "basne_153.html",
+      "next": "basne_155.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Několikátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cestou",
+      "file": "basne_155.html",
+      "words": 167,
+      "chars": 920,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 151,
+      "prev": "basne_154.html",
+      "next": "basne_156.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cestou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úplňky",
+      "file": "basne_156.html",
+      "words": 174,
+      "chars": 957,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 152,
+      "prev": "basne_155.html",
+      "next": "basne_157.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úplňky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pád",
+      "file": "basne_157.html",
+      "words": 90,
+      "chars": 477,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 153,
+      "prev": "basne_156.html",
+      "next": "basne_158.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pád",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vteřiny",
+      "file": "basne_158.html",
+      "words": 51,
+      "chars": 288,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 154,
+      "prev": "basne_157.html",
+      "next": "basne_159.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vteřiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otázky",
+      "file": "basne_159.html",
+      "words": 135,
+      "chars": 724,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 155,
+      "prev": "basne_158.html",
+      "next": "basne_160.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otázky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Florencie",
+      "file": "basne_160.html",
+      "words": 139,
+      "chars": 736,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 156,
+      "prev": "basne_159.html",
+      "next": "basne_161.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Florencie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Můrovi",
+      "file": "basne_161.html",
+      "words": 68,
+      "chars": 334,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 157,
+      "prev": "basne_160.html",
+      "next": "basne_162.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Můrovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Podsvětí",
+      "file": "basne_162.html",
+      "words": 102,
+      "chars": 535,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 158,
+      "prev": "basne_161.html",
+      "next": "basne_163.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Podsvětí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řeč o řeči",
+      "file": "basne_163.html",
+      "words": 83,
+      "chars": 502,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 159,
+      "prev": "basne_162.html",
+      "next": "basne_164.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řeč o řeči",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sestra",
+      "file": "basne_164.html",
+      "words": 73,
+      "chars": 407,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 160,
+      "prev": "basne_163.html",
+      "next": "basne_165.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sestra",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sebevražda",
+      "file": "basne_165.html",
+      "words": 155,
+      "chars": 841,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 161,
+      "prev": "basne_164.html",
+      "next": "basne_166.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sebevražda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věře",
+      "file": "basne_166.html",
+      "words": 118,
+      "chars": 669,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 162,
+      "prev": "basne_165.html",
+      "next": "basne_167.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozpomněnka",
+      "file": "basne_167.html",
+      "words": 36,
+      "chars": 215,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 163,
+      "prev": "basne_166.html",
+      "next": "basne_168.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozpomněnka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Před Velikonocemi",
+      "file": "basne_168.html",
+      "words": 74,
+      "chars": 395,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 164,
+      "prev": "basne_167.html",
+      "next": "basne_169.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Před Velikonocemi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A co zbude po nás?",
+      "file": "basne_169.html",
+      "words": 141,
+      "chars": 774,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 165,
+      "prev": "basne_168.html",
+      "next": "basne_170.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A co zbude po nás?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka",
+      "file": "basne_170.html",
+      "words": 116,
+      "chars": 653,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 166,
+      "prev": "basne_169.html",
+      "next": "basne_171.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebáseň",
+      "file": "basne_171.html",
+      "words": 43,
+      "chars": 247,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 167,
+      "prev": "basne_170.html",
+      "next": "basne_172.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebáseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Písnička",
+      "file": "basne_172.html",
+      "words": 58,
+      "chars": 339,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 168,
+      "prev": "basne_171.html",
+      "next": "basne_173.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Písnička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bezejmenná",
+      "file": "basne_173.html",
+      "words": 169,
+      "chars": 884,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 169,
+      "prev": "basne_172.html",
+      "next": "basne_174.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bezejmenná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_174.html",
+      "words": 82,
+      "chars": 440,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 170,
+      "prev": "basne_173.html",
+      "next": "basne_175.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_175.html",
+      "words": 177,
+      "chars": 1010,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 171,
+      "prev": "basne_174.html",
+      "next": "basne_176.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_176.html",
+      "words": 92,
+      "chars": 481,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 172,
+      "prev": "basne_175.html",
+      "next": "basne_177.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_177.html",
+      "words": 133,
+      "chars": 744,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 173,
+      "prev": "basne_176.html",
+      "next": "basne_178.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_178.html",
+      "words": 93,
+      "chars": 548,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 174,
+      "prev": "basne_177.html",
+      "next": "basne_179.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_179.html",
+      "words": 158,
+      "chars": 904,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 175,
+      "prev": "basne_178.html",
+      "next": "basne_180.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_180.html",
+      "words": 91,
+      "chars": 513,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 176,
+      "prev": "basne_179.html",
+      "next": "basne_181.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_181.html",
+      "words": 49,
+      "chars": 301,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 177,
+      "prev": "basne_180.html",
+      "next": "basne_182.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_182.html",
+      "words": 33,
+      "chars": 150,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 178,
+      "prev": "basne_181.html",
+      "next": "basne_183.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_183.html",
+      "words": 111,
+      "chars": 653,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 179,
+      "prev": "basne_182.html",
+      "next": "basne_184.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_184.html",
+      "words": 66,
+      "chars": 309,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 180,
+      "prev": "basne_183.html",
+      "next": "basne_185.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_185.html",
+      "words": 53,
+      "chars": 280,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 181,
+      "prev": "basne_184.html",
+      "next": "basne_186.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_186.html",
+      "words": 53,
+      "chars": 280,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 182,
+      "prev": "basne_185.html",
+      "next": "basne_187.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_187.html",
+      "words": 29,
+      "chars": 141,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 183,
+      "prev": "basne_186.html",
+      "next": "basne_188.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_188.html",
+      "words": 28,
+      "chars": 129,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 184,
+      "prev": "basne_187.html",
+      "next": "basne_189.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_189.html",
+      "words": 44,
+      "chars": 225,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 185,
+      "prev": "basne_188.html",
+      "next": "basne_190.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_190.html",
+      "words": 90,
+      "chars": 482,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 186,
+      "prev": "basne_189.html",
+      "next": "basne_191.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX",
+      "file": "basne_191.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 187,
+      "prev": "basne_190.html",
+      "next": "basne_192.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Thunovská",
+      "file": "basne_192.html",
+      "words": 65,
+      "chars": 379,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 188,
+      "prev": "basne_191.html",
+      "next": "basne_193.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Thunovská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poříčí",
+      "file": "basne_193.html",
+      "words": 129,
+      "chars": 662,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 189,
+      "prev": "basne_192.html",
+      "next": "basne_194.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poříčí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_194.html",
+      "words": 75,
+      "chars": 394,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 190,
+      "prev": "basne_193.html",
+      "next": "basne_195.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_195.html",
+      "words": 74,
+      "chars": 386,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 191,
+      "prev": "basne_194.html",
+      "next": "basne_196.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_196.html",
+      "words": 77,
+      "chars": 444,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 192,
+      "prev": "basne_195.html",
+      "next": "basne_197.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_197.html",
+      "words": 80,
+      "chars": 419,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 193,
+      "prev": "basne_196.html",
+      "next": "basne_198.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_198.html",
+      "words": 58,
+      "chars": 345,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 194,
+      "prev": "basne_197.html",
+      "next": "basne_199.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bohnice",
+      "file": "basne_199.html",
+      "words": 76,
+      "chars": 410,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 195,
+      "prev": "basne_198.html",
+      "next": "basne_200.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bohnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_200.html",
+      "words": 199,
+      "chars": 1013,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 196,
+      "prev": "basne_199.html",
+      "next": "basne_201.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_201.html",
+      "words": 76,
+      "chars": 393,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 197,
+      "prev": "basne_200.html",
+      "next": "basne_202.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_202.html",
+      "words": 56,
+      "chars": 264,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 198,
+      "prev": "basne_201.html",
+      "next": "basne_203.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_203.html",
+      "words": 68,
+      "chars": 359,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 199,
+      "prev": "basne_202.html",
+      "next": "basne_204.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tělesnosti!",
+      "file": "basne_204.html",
+      "words": 89,
+      "chars": 512,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 200,
+      "prev": "basne_203.html",
+      "next": "basne_205.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tělesnosti!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_205.html",
+      "words": 149,
+      "chars": 825,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 201,
+      "prev": "basne_204.html",
+      "next": "basne_206.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_206.html",
+      "words": 218,
+      "chars": 1127,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 202,
+      "prev": "basne_205.html",
+      "next": "basne_207.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_207.html",
+      "words": 106,
+      "chars": 617,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 203,
+      "prev": "basne_206.html",
+      "next": "basne_208.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_208.html",
+      "words": 124,
+      "chars": 690,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 204,
+      "prev": "basne_207.html",
+      "next": "basne_209.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_209.html",
+      "words": 124,
+      "chars": 693,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 205,
+      "prev": "basne_208.html",
+      "next": "basne_210.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_210.html",
+      "words": 106,
+      "chars": 561,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 206,
+      "prev": "basne_209.html",
+      "next": "basne_211.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X",
+      "file": "basne_211.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 207,
+      "prev": "basne_210.html",
+      "next": "basne_212.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_212.html",
+      "words": 85,
+      "chars": 427,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 208,
+      "prev": "basne_211.html",
+      "next": "basne_213.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_213.html",
+      "words": 89,
+      "chars": 511,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 209,
+      "prev": "basne_212.html",
+      "next": "basne_214.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prosba",
+      "file": "basne_214.html",
+      "words": 81,
+      "chars": 412,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 210,
+      "prev": "basne_213.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prosba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 126,
+      "chars": 815,
+      "ideas": 14,
+      "role": "about",
+      "order": null,
+      "prev": "basne_214.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 25629,
+      "chars": 142015,
+      "ideas": 5664
+    },
+    "chapters": {
+      "words": 25498,
+      "chars": 141175,
+      "ideas": 5646
+    }
+  }
+}

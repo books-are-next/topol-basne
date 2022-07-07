@@ -1,11 +1,11 @@
 ---
 title: Bohnice
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Richardu Balonovi
+_Richardu Balonovi_
 
 Nemohl jsem spát
 

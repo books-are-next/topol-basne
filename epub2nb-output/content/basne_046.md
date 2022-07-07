@@ -1,6 +1,6 @@
 ---
 title: Sicut erat
-contentType: prose
+contentType: poetry
 ---
 
 <section>

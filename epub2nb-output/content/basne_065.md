@@ -1,6 +1,6 @@
 ---
 title: Hon na bažanty
-contentType: prose
+contentType: poetry
 ---
 
 <section>

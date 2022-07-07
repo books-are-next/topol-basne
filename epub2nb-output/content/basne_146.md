@@ -1,6 +1,6 @@
 ---
 title: Vzkříšení
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -42,11 +42,11 @@ neznající dosud naše míry a váhy
 vzpírající se paklíči pacholků vědy  
 jejich prstů dobrých tak leda na zatlačení  
 našich očí —  
-                         uviděl jsem  
+             uviděl jsem  
 pradávný neuvěřitelný život  
 jehož mluvčím je Homér  
 a Vykupitelem Kristus
 
-Krakovec, Velikonoce 1980
+_Krakovec, Velikonoce 1980_
 
 </section>

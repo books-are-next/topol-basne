@@ -1,6 +1,6 @@
 ---
 title: První verš
-contentType: prose
+contentType: poetry
 ---
 
 <section>

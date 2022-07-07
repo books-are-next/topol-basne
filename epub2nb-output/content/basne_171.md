@@ -1,6 +1,6 @@
 ---
 title: Nebáseň
-contentType: prose
+contentType: poetry
 ---
 
 <section>

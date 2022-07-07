@@ -1,6 +1,6 @@
 ---
 title: '* * *'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -25,6 +25,6 @@ který se nerozední
 
 A když tak ne pro mne
 
-21\. října 1986
+_21\. října 1986_
 
 </section>

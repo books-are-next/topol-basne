@@ -1,6 +1,6 @@
 ---
 title: Cesta pouští
-contentType: prose
+contentType: poetry
 ---
 
 <section>

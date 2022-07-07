@@ -1,6 +1,6 @@
 ---
 title: Řeč o řeči
-contentType: prose
+contentType: poetry
 ---
 
 <section>

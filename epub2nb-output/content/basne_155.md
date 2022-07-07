@@ -1,6 +1,6 @@
 ---
 title: Cestou
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -36,6 +36,6 @@ ostatně to ani nebyla cesta
 
 Nevěděl jsem kde jsem a zastavil se
 
-18\. ledna 1983
+_18\. ledna 1983_
 
 </section>

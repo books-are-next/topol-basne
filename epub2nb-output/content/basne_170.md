@@ -1,6 +1,6 @@
 ---
 title: Vzpomínka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

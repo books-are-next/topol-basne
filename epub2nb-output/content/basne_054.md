@@ -1,11 +1,11 @@
 ---
 title: Siroba
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Sergejovi Machoninovi
+_Sergejovi Machoninovi_
 
 O holi žebrácké jdem doly stříbrnými  
 těla chvějivých osik nám cestu stíní  
@@ -28,6 +28,6 @@ Ač kameníme větry severními
 před zimou lesy smrkové nás chrání  
 sirobou oblečeni jíme domácí chléb
 
-9\. prosince 1959
+_9\. prosince 1959_
 
 </section>

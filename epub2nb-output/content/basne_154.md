@@ -1,11 +1,11 @@
 ---
 title: Několikátá
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Panu Kostohryzovi
+_Panu Kostohryzovi_
 
 Proutí se ohne my se lámem  
 a jak to je dál?
@@ -41,6 +41,6 @@ neskuhrají na svět že zebe
 bez ohledu na riziko možné zisky a ztráty  
 přece jen upevňují ctnost — —
 
-Prosinec 1982
+_Prosinec 1982_
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: Mdloba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Záznam
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -45,6 +45,6 @@ po příjezdu místo v ústrety přátelům
 jsem spěchal do čekárny: tak neschůdné  
 bylo pro mne Náměstí svobody
 
-29\. srpna 1978
+_29\. srpna 1978_
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Pád
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Karlu Hubkovi
+_Karlu Hubkovi_
 
 V tikání hodin prošlý čas  
 se ztrácí nenaplněný  

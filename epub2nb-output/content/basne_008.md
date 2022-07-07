@@ -1,11 +1,11 @@
 ---
 title: Hlava
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Mikuláši Medkovi
+_Mikuláši Medkovi_
 
 ## I
 

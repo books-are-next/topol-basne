@@ -1,6 +1,6 @@
 ---
 title: A slovo tělem učiněno jest
-contentType: prose
+contentType: poetry
 ---
 
 <section>

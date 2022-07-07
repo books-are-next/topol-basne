@@ -1,6 +1,6 @@
 ---
 title: Veliká báseň
-contentType: prose
+contentType: poetry
 ---
 
 <section>

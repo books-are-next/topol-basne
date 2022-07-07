@@ -1,6 +1,6 @@
 ---
 title: Rozpomněnka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

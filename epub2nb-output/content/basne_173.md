@@ -1,6 +1,6 @@
 ---
 title: Bezejmenná
-contentType: prose
+contentType: poetry
 ---
 
 <section>

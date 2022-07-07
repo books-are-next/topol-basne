@@ -1,6 +1,6 @@
 ---
 title: Doufání ve smrt
-contentType: prose
+contentType: poetry
 ---
 
 <section>

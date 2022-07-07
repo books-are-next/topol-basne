@@ -1,6 +1,6 @@
 ---
 title: Kruhy pod očima
-contentType: prose
+contentType: poetry
 ---
 
 <section>

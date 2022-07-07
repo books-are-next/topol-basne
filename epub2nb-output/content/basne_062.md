@@ -1,6 +1,6 @@
 ---
 title: Smrt Erbenova
-contentType: prose
+contentType: poetry
 ---
 
 <section>

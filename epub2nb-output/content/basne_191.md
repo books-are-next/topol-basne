@@ -1,6 +1,6 @@
 ---
 title: IX
-contentType: prose
+contentType: poetry
 ---
 
 

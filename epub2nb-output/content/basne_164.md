@@ -1,6 +1,6 @@
 ---
 title: Sestra
-contentType: prose
+contentType: poetry
 ---
 
 <section>
