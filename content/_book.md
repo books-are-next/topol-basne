@@ -515,7 +515,7 @@ tocBase:
             title: Úklady
             hiddenTitle: false
           - link: basne_098.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_099.html
             title: Mdloba
@@ -580,19 +580,19 @@ tocBase:
             title: Obětina
             hiddenTitle: false
           - link: basne_119.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_120.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_121.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_122.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_123.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_124.html
             title: Vigilie
@@ -604,13 +604,13 @@ tocBase:
             title: Poesie
             hiddenTitle: false
           - link: basne_127.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_128.html
             title: Vánoce 77
             hiddenTitle: false
           - link: basne_129.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_130.html
             title: Kampa
@@ -619,10 +619,10 @@ tocBase:
             title: 19. 1. 1978
             hiddenTitle: false
           - link: basne_132.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_133.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_134.html
             title: Záznam
@@ -677,7 +677,7 @@ tocBase:
             title: O naději (II)
             hiddenTitle: false
           - link: basne_151.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_152.html
             title: Abeceda
@@ -746,55 +746,55 @@ tocBase:
             title: Bezejmenná
             hiddenTitle: false
           - link: basne_174.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_175.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_176.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_177.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_178.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_179.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_180.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_181.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_182.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_183.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_184.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_185.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_186.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_187.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_188.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_189.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_190.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
         listType: plain
       - link: basne_191.html
@@ -808,55 +808,55 @@ tocBase:
             title: Poříčí
             hiddenTitle: false
           - link: basne_194.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_195.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_196.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_197.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_198.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_199.html
             title: Bohnice
             hiddenTitle: false
           - link: basne_200.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_201.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_202.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_203.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_204.html
             title: Tělesnosti!
             hiddenTitle: false
           - link: basne_205.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_206.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_207.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_208.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_209.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_210.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
         listType: plain
       - link: basne_211.html
@@ -864,10 +864,10 @@ tocBase:
         hiddenTitle: false
         children:
           - link: basne_212.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
           - link: basne_213.html
-            title: '* * *'
+            title: \* \* \*
             hiddenTitle: false
         listType: plain
       - link: basne_214.html
