@@ -146,6 +146,7 @@ readingOrder:
   - basne_133.html
   - basne_134.html
   - basne_135.html
+  - basne_136.html
   - basne_137.html
   - basne_138.html
   - basne_139.html
