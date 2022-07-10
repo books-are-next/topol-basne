@@ -24,8 +24,8 @@ _v poslední libovolně zvolené
 (mohla to být kterákoliv ze sedmi),  
 v poslední věci bude uložen slavný řád.
 
-Balšám první věci udělal svět lahodným.  
-Balzám poslední věci udělá svět věčným.
+_Balšám první věci udělal svět lahodným.  
+Balzám poslední věci udělá svět věčným._
 
 Fantóm poetiky nabádá:  
 Skico, neztrácej plnost básně!  
