@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2381-1
 readingOrder:
   - promo.html
   - basne_005.html
