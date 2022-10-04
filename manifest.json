@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "topol-basne-a71ad5a",
-  "revision": "a71ad5a",
+  "identifier": "topol-basne-cdca220",
+  "revision": "cdca220",
   "readingOrder": [
     "promo.html",
     "basne_005.html",
@@ -224,8 +224,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:07:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640447019
+    "date": "Tue Oct 04 2022 16:54:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902461686
   },
   "documents": [
     {
@@ -4741,9 +4741,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 130,
+      "words": 129,
       "chars": 853,
-      "ideas": 15,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "basne_214.html",
@@ -4761,9 +4761,9 @@
   ],
   "totals": {
     "all": {
-      "words": 25633,
+      "words": 25632,
       "chars": 142053,
-      "ideas": 5665
+      "ideas": 5664
     },
     "chapters": {
       "words": 25498,
